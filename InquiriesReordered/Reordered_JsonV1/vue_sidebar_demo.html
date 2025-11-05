@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inquiry Sidebar Demo</title>
+  <style>
+    :root {{
+      --bg: #0b1020;
+      --card: #121a34;
+      --text: #f5f7ff;
+      --muted: #9fb0d0;
+      --accent: #7aa2ff;
+      --border: #223058;
+    }}
+    * {{ box-sizing: border-box; }}
+    body {{ margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji"; background: var(--bg); color: var(--text); }}
+    .wrap {{ display: grid; grid-template-columns: 320px 1fr; min-height: 100vh; }}
+    aside {{ border-right: 1px solid var(--border); background: linear-gradient(180deg, #0f1730, #0a0f22); padding: 16px; overflow: auto; }}
+    main {{ padding: 16px; overflow: auto; }}
+    h1 {{ font-size: 1.2rem; margin: 0 0 12px; color: var(--accent); }}
+    .controls {{ display: flex; gap: 8px; margin-bottom: 10px; }}
+    select, input[type="search"] {{
+      background: var(--card); color: var(--text); border: 1px solid var(--border);
+      padding: 8px 10px; border-radius: 8px; outline: none; width: 100%;
+    }}
+    .list {{ display: grid; gap: 8px; }}
+    .item {{ background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 10px; }}
+    .badges {{ display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 6px; }}
+    .badge {{ font-size: 12px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); }}
+    .idlink {{ font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; color: var(--muted); }}
+    .text {{ line-height: 1.4; }}
+    .row {{ display: flex; gap: 8px; align-items: center; }}
+    button {{ background: #1a2a55; border: 1px solid var(--border); color: var(--text); padding: 6px 10px; border-radius: 8px; cursor: pointer; }}
+    button:hover {{ background: #20346a; }}
+    a.deep {{ color: var(--accent); text-decoration: none; }}
+    a.deep:hover {{ text-decoration: underline; }}
+    .legend {{ font-size: 12px; color: var(--muted); margin-top: 8px; }}
+    .grid-doc {{ display: grid; gap: 12px; }}
+    .section h2, .section h3, .section h4, .section h5, .section h6 {{ margin: 18px 0 6px; }}
+    .p.grounding {{ background: #0e223e; padding: .5rem .75rem; border-radius: .375rem; }}
+    .p.question {{ padding-left: .5rem; }}
+  </style>
+</head>
+<body>
+<div id="app" class="wrap" v-cloak>
+  <aside>
+    <h1>Inquiry Index</h1>
+    <div class="controls">
+      <select v-model="filterKind">
+        <option value="">All</option>
+        <option value="grounding">Grounding</option>
+        <option value="question">Question</option>
+      </select>
+    </div>
+    <div class="controls">
+      <select v-model="filterWeek">
+        <option value="">All Weeks</option>
+        <option v-for="w in weeks" :key="w" :value="w">Week {{ '{{' }} w {{ '}}' }}</option>
+      </select>
+    </div>
+    <div class="controls">
+      <input type="search" v-model="query" placeholder="Search text..." />
+    </div>
+
+    <div class="list">
+      <div v-for="it in filtered" :key="it.id" class="item">
+        <div class="badges">
+          <span class="badge">{{ '{{' }} it.kind {{ '}}' }}</span>
+          <span class="idlink">#{{ '{{' }} it.id {{ '}}' }}</span>
+        </div>
+        <div class="text">{{ '{{' }} it.text {{ '}}' }}</div>
+        <div class="row" style="margin-top:8px;">
+          <button @click="copyLink(it)">Copy link</button>
+          <a class="deep" :href="'#' + it.id" @click.prevent="scrollTo(it)">Go to</a>
+        </div>
+        <div class="legend">Week {{ '{{' }} it.week {{ '}}' }} • {{ '{{' }} it.section_heading {{ '}}' }}</div>
+      </div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="grid-doc">
+      <h1>{{ '{{' }} doc.title {{ '}}' }}</h1>
+      <div v-for="sec in doc.sections" :key="sec.id" class="section">
+        <component :is="'h' + (sec.level || 2)" :id="sec.id" class="section-heading" :class="sec.class">{{ '{{' }} sec.heading {{ '}}' }}</component>
+        <div class="section-content">
+          <template v-for="(block, i) in sec.content" :key="block.id || i">
+            <p v-if="block.type==='p'" :id="block.id" :class="['p', block.class]">{{ '{{' }} block.text {{ '}}' }}</p>
+            <ul v-else-if="block.type==='ul'">
+              <li v-for="li in block.items" :key="li.id" :id="li.id" :class="['li', li.class]">{{ '{{' }} li.text {{ '}}' }}</li>
+            </ul>
+            <ol v-else-if="block.type==='ol'">
+              <li v-for="li in block.items" :key="li.id" :id="li.id" :class="['li', li.class]">{{ '{{' }} li.text {{ '}}' }}</li>
+            </ol>
+            <blockquote v-else-if="block.type==='blockquote'">{{ '{{' }} block.text {{ '}}' }}</blockquote>
+            <hr v-else-if="block.type==='hr'">
+            <table v-else-if="block.type==='table'">
+              <tbody>
+                <tr v-for="(row, r) in block.rows" :key="r">
+                  <td v-for="(cell, c) in row" :key="c">{{ '{{' }} cell {{ '}}' }}</td>
+                </tr>
+              </tbody>
+            </table>
+            <pre v-else class="unknown">{{ '{{' }} block {{ '}}' }}</pre>
+          </template>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script type="application/json" id="doc-json">{doc_json}</script>
+<script type="application/json" id="index-json">{index_json}</script>
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+<script>
+const app = Vue.createApp({
+  data() {{
+    return {{
+      doc: JSON.parse(document.getElementById('doc-json').textContent),
+      index: JSON.parse(document.getElementById('index-json').textContent).items,
+      filterKind: '',
+      filterWeek: '',
+      query: ''
+    }};
+  }},
+  computed: {{
+    weeks() {{
+      const set = new Set(this.index.map(i => i.week).filter(Boolean));
+      return Array.from(set).sort((a,b)=>a-b);
+    }},
+    filtered() {{
+      let out = this.index;
+      if (this.filterKind) out = out.filter(i => i.kind === this.filterKind);
+      if (this.filterWeek) out = out.filter(i => String(i.week) === String(this.filterWeek));
+      if (this.query) {{
+        const q = this.query.toLowerCase();
+        out = out.filter(i => (i.text||'').toLowerCase().includes(q));
+      }}
+      return out;
+    }}
+  }},
+  methods: {{
+    async copyLink(it) {{
+      const url = new URL(window.location);
+      url.hash = it.id;
+      try {{ await navigator.clipboard.writeText(url.toString()); }}
+      catch (e) {{ console.warn('Clipboard API failed', e); }}
+    }},
+    scrollTo(it) {{
+      const el = document.getElementById(it.id);
+      if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
+      history.replaceState(null, '', '#' + it.id);
+    }}
+  }}
+});
+app.mount('#app');
+</script>
+</body>
+</html>

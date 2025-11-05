@@ -1,0 +1,492 @@
+{
+  "title": {
+    "text": "Reordered Inquiries with Grounding",
+    "class": "title1"
+  },
+  "sections": [
+    {
+      "heading": "Preamble",
+      "level": 2,
+      "sections": [
+        {
+          "heading": "Title + source notes",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "This document lives at: reordered.rd.rocks",
+              "class": "preamble1",
+              "id": "pream-1"
+            },
+            {
+              "type": "p",
+              "text": "Originally Developed by Eugene, Oregon Sangha",
+              "class": "preamble1",
+              "id": "pream-2"
+            },
+            {
+              "type": "p",
+              "text": "Grounding added by RD true INTIMACY Sangha",
+              "class": "preamble1",
+              "id": "pream-3"
+            },
+            {
+              "type": "p",
+              "text": "Take me straight to the Reordered Inquiry Questions!",
+              "class": "preamble1",
+              "id": "pream-4"
+            },
+            {
+              "type": "p",
+              "text": "Check out http://inquiriesFAQ.rd.rocks for help getting your Inquiry Circle started.",
+              "class": "preamble1",
+              "id": "pream-5"
+            }
+          ]
+        },
+        {
+          "heading": "TABLE OF CONTENTS",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "Preamble",
+              "class": "toc1",
+              "id": "toc-1"
+            },
+            {
+              "type": "p",
+              "text": "Title + source notes",
+              "class": "toc2",
+              "id": "toc-2"
+            },
+            {
+              "type": "p",
+              "text": "TABLE OF CONTENTS",
+              "class": "toc2",
+              "id": "toc-3"
+            },
+            {
+              "type": "p",
+              "text": "How to Use This Document",
+              "class": "toc2",
+              "id": "toc-4"
+            },
+            {
+              "type": "p",
+              "text": "What is the purpose of these questions?",
+              "class": "toc3",
+              "id": "toc-5"
+            },
+            {
+              "type": "p",
+              "text": "How to use these questions in a group setting",
+              "class": "toc3",
+              "id": "toc-6"
+            },
+            {
+              "type": "p",
+              "text": "Why Re-Order the Questions for Inquiry?",
+              "class": "toc3",
+              "id": "toc-7"
+            },
+            {
+              "type": "p",
+              "text": "Week1 — Wise Understanding (part 1)",
+              "class": "toc1",
+              "id": "toc-8"
+            },
+            {
+              "type": "p",
+              "text": "Week2 — Wise Understanding (part 2)",
+              "class": "toc1",
+              "id": "toc-9"
+            },
+            {
+              "type": "p",
+              "text": "Week3 — Wise Self-Speech",
+              "class": "toc1",
+              "id": "toc-10"
+            },
+            {
+              "type": "p",
+              "text": "Week4 — 2nd Noble Truth | The Cause of Suffering",
+              "class": "toc1",
+              "id": "toc-11"
+            },
+            {
+              "type": "p",
+              "text": "Week5 — 3rd Noble Truth | The End of Suffering",
+              "class": "toc1",
+              "id": "toc-12"
+            },
+            {
+              "type": "p",
+              "text": "Week6 — Wise Effort",
+              "class": "toc1",
+              "id": "toc-13"
+            },
+            {
+              "type": "p",
+              "text": "Week7 — Wise Mindfulness",
+              "class": "toc1",
+              "id": "toc-14"
+            },
+            {
+              "type": "p",
+              "text": "Week8 — Wise Concentration",
+              "class": "toc1",
+              "id": "toc-15"
+            },
+            {
+              "type": "p",
+              "text": "Week9 — Wise Speech",
+              "class": "toc1",
+              "id": "toc-16"
+            },
+            {
+              "type": "p",
+              "text": "Week10 — 1st Noble Truth | The Truth of Suffering",
+              "class": "toc1",
+              "id": "toc-17"
+            },
+            {
+              "type": "p",
+              "text": "Week11 — 4th Noble Truth | The Path to the End of Suffering",
+              "class": "toc1",
+              "id": "toc-18"
+            },
+            {
+              "type": "p",
+              "text": "Week12 — Wise Intention (part 1)",
+              "class": "toc1",
+              "id": "toc-19"
+            },
+            {
+              "type": "p",
+              "text": "Week13 — Wise Intention (part 2)",
+              "class": "toc1",
+              "id": "toc-20"
+            },
+            {
+              "type": "p",
+              "text": "Week14 — Wise Intention (part 3)",
+              "class": "toc1",
+              "id": "toc-21"
+            },
+            {
+              "type": "p",
+              "text": "Week15 — Wise Action (part 1)",
+              "class": "toc1",
+              "id": "toc-22"
+            },
+            {
+              "type": "p",
+              "text": "Week16 — Wise Action (part 2)",
+              "class": "toc1",
+              "id": "toc-23"
+            },
+            {
+              "type": "p",
+              "text": "Week17 — Wise Action (part 3)",
+              "class": "toc1",
+              "id": "toc-24"
+            },
+            {
+              "type": "p",
+              "text": "Week18 — Wise Livelihood",
+              "class": "toc1",
+              "id": "toc-25"
+            },
+            {
+              "type": "p",
+              "text": "Week19 — Final Recap and Metta Celebration! Set New Intentions.",
+              "class": "toc1",
+              "id": "toc-26"
+            },
+            {
+              "type": "p",
+              "text": "Footnotes",
+              "class": "toc1",
+              "id": "toc-27"
+            }
+          ]
+        },
+        {
+          "heading": "How to Use This Document",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "This document is designed to be used in a group setting, with one question per week. Each week, you'll have the opportunity to reflect on a different aspect of the Eightfold Path and how it relates to your life.",
+              "class": "preamble1",
+              "id": "pream-6"
+            },
+            {
+              "type": "p",
+              "text": "The document is divided into 19 weeks, with each week focusing on a different aspect of the path. Each week includes:",
+              "class": "preamble1",
+              "id": "pream-7"
+            },
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "type": "li",
+                  "text": "A grounding exercise"
+                },
+                {
+                  "type": "li",
+                  "text": "A set of reflection questions"
+                },
+                {
+                  "type": "li",
+                  "text": "An aftercare prompt"
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Feel free to move through the weeks at your own pace, and don't feel pressured to complete all the questions if they don't all resonate with you.",
+              "class": "preamble1",
+              "id": "pream-8"
+            }
+          ]
+        },
+        {
+          "heading": "What is the purpose of these questions?",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "These questions are designed to help you explore the Eightfold Path in a personal and practical way. They're meant to be used as a tool for self-reflection and growth, not as a test or a measure of your spiritual progress.",
+              "class": "preamble1",
+              "id": "pream-9"
+            },
+            {
+              "type": "p",
+              "text": "The questions are organized around the Eightfold Path, which is a framework for ethical conduct, mental discipline, and wisdom in the Buddhist tradition. However, you don't need to be a Buddhist to find them useful!",
+              "class": "preamble1",
+              "id": "pream-10"
+            }
+          ]
+        },
+        {
+          "heading": "How to use these questions in a group setting",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "These questions can be used in a variety of group settings, including:",
+              "class": "preamble1",
+              "id": "pream-11"
+            },
+            {
+              "type": "ul",
+              "items": [
+                {
+                  "type": "li",
+                  "text": "Sangha (spiritual community) gatherings"
+                },
+                {
+                  "type": "li",
+                  "text": "Book clubs or study groups"
+                },
+                {
+                  "type": "li",
+                  "text": "Therapy or support groups"
+                },
+                {
+                  "type": "li",
+                  "text": "Workshops or retreats"
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "text": "When using these questions in a group, it can be helpful to:",
+              "class": "preamble1",
+              "id": "pream-12"
+            },
+            {
+              "type": "ol",
+              "items": [
+                {
+                  "type": "li",
+                  "text": "Start with a brief check-in or meditation"
+                },
+                {
+                  "type": "li",
+                  "text": "Take turns sharing your responses"
+                },
+                {
+                  "type": "li",
+                  "text": "Practice deep listening without judgment"
+                },
+                {
+                  "type": "li",
+                  "text": "Respect each other's privacy and boundaries"
+                },
+                {
+                  "type": "li",
+                  "text": "End with a brief closing or dedication"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Why Re-Order the Questions for Inquiry?",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "The traditional order of the Eightfold Path is:",
+              "class": "preamble1",
+              "id": "pream-13"
+            },
+            {
+              "type": "ol",
+              "items": [
+                {
+                  "type": "li",
+                  "text": "Right View (Wise Understanding)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Intention (Wise Intention)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Speech (Wise Speech)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Action (Wise Action)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Livelihood (Wise Livelihood)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Effort (Wise Effort)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Mindfulness (Wise Mindfulness)"
+                },
+                {
+                  "type": "li",
+                  "text": "Right Concentration (Wise Concentration)"
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "text": "However, this order doesn't necessarily reflect the order in which these qualities develop in practice. For example, it's common to start with mindfulness (which is often taught first in meditation), even though it's seventh in the traditional list.",
+              "class": "preamble1",
+              "id": "pream-14"
+            },
+            {
+              "type": "p",
+              "text": "The reordered questions in this document are designed to follow a more natural progression of practice, starting with foundational skills and building toward more advanced ones.",
+              "class": "preamble1",
+              "id": "pream-15"
+            },
+            {
+              "type": "p",
+              "text": "Starting with Wise Understanding seemed important, followed by moving into some compassionate investigation of negative self-talk, and perhaps dishonesty towards oneself [as Wise 'Self-Speech']. From there, understanding is built by exploring the cause of suffering, in the 2nd Noble Truth and then hope is cultivated by discussing the reality of the end of suffering in the 3rd Noble Truth.",
+              "class": "preamble1",
+              "id": "pream-16"
+            },
+            {
+              "type": "p",
+              "text": "Then we move into the more active aspects of practice with Wise Effort, Mindfulness, and Concentration, before circling back to explore Wise Speech in more depth. Finally, we explore the 1st Noble Truth (the truth of suffering), the 4th Noble Truth (the path), and then conclude with Wise Intention and Wise Action.",
+              "class": "preamble1",
+              "id": "pream-17"
+            },
+            {
+              "type": "p",
+              "text": "[Summary : Wise Understanding → \"Self-Speech\" → 2NT, 3NT → Wise Effort, Mindfulness, Concentration → Wise Speech → 1NT, 4NT → Wise Intention, Action, Livelihood]",
+              "class": "preamble1",
+              "id": "pream-18"
+            }
+          ]
+        },
+        {
+          "heading": "RD1.2 Reordered Inquiries (with Grounding Tips)",
+          "level": 3,
+          "content": []
+        },
+        {
+          "heading": "Notes",
+          "level": 3,
+          "content": [
+            {
+              "type": "p",
+              "text": "- The original order of the questions has been reorganized for a more natural progression of inquiry.",
+              "class": "preamble1",
+              "id": "pream-19"
+            },
+            {
+              "type": "p",
+              "text": "- Grounding tips have been added to help you stay present and connected during your inquiry.",
+              "class": "preamble1",
+              "id": "pream-20"
+            },
+            {
+              "type": "p",
+              "text": "- Feel free to adapt the questions to suit your needs and the needs of your group.",
+              "class": "preamble1",
+              "id": "pream-21"
+            },
+            {
+              "type": "p",
+              "text": "- There are no right or wrong answers to these questions. The goal is to explore and reflect.",
+              "class": "preamble1",
+              "id": "pream-22"
+            },
+            {
+              "type": "p",
+              "text": "- Be gentle with yourself and others as you engage with these inquiries.",
+              "class": "preamble1",
+              "id": "pream-23"
+            },
+            {
+              "type": "p",
+              "text": "- Remember that this is a practice, and like any practice, it takes time and patience to develop.",
+              "class": "preamble1",
+              "id": "pream-24"
+            },
+            {
+              "type": "p",
+              "text": "- If you find yourself feeling overwhelmed, take a break and return to the questions when you're ready.",
+              "class": "preamble1",
+              "id": "pream-25"
+            },
+            {
+              "type": "p",
+              "text": "- Consider keeping a journal to track your insights and reflections over time.",
+              "class": "preamble1",
+              "id": "pream-26"
+            },
+            {
+              "type": "p",
+              "text": "- Remember that the journey is just as important as the destination.",
+              "class": "preamble1",
+              "id": "pream-27"
+            },
+            {
+              "type": "p",
+              "text": "- Enjoy the process of self-discovery and growth!",
+              "class": "preamble1",
+              "id": "pream-28"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

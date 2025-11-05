@@ -1,0 +1,65 @@
+/* ada2.css — Accessibility-first stylesheet, modified from ada1.css
+   Changes:
+   - h2 (e.g. "Weeks") made larger and more noticeable.
+   - Week headings (h3 inside #weeks) made larger with more spacing above.
+*/
+
+:root {
+  --bg: #ffffff;
+  --fg: #0b0b0b;
+  --muted: #333333;
+  --link: #0645ad;
+  --link-visited: #5a3696;
+  --focus: #ffbf47;
+  --border: #cfd8dc;
+  --card: #ffffff;
+  --accent-bg: #eef7ff;
+  --accent-border: #0b62d6;
+  --success-bg: #eef9f0;
+  --success-border: #1b7f52;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 100%; }
+body {
+  margin: 0;
+  color: var(--fg);
+  background: var(--bg);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  line-height: 1.7;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 1.25em 0 .6em;
+}
+
+/* “Weeks” heading (level 2) */
+h2 {
+  font-size: 2rem;        /* ~32px */
+  margin-top: 2rem;       /* more separation above */
+  margin-bottom: 1rem;
+  text-align: center;     /* centered to stand out */
+}
+
+/* Default h3 */
+h3 { font-size: 1.25rem; }
+
+/* Week headings inside Weeks section */
+#weeks h3 {
+  font-size: 1.75rem;     /* ~28px, bigger than normal h3 */
+  margin-top: 2.2rem;     /* extra vertical space above */
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+/* Rest of styles remain same as ada1.css … */
+p { margin: .75rem 0 1rem; font-size: 1rem; }
+a { color: var(--link); text-decoration: underline; }
+a:visited { color: var(--link-visited); }
+a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+/* … keep all other definitions from ada1.css unchanged */

@@ -1,0 +1,72 @@
+{
+  "heading": "Wise Understanding (part 1)",
+  "level": 3,
+  "content": [
+    {
+      "type": "grounding",
+      "text": "Mantras of Self-Compassion: If you notice your mind is speaking harshly to you or trauma-activated, return to these powerful phrases. Say to yourself, as many times as necessary."
+    },
+    {
+      "type": "ol",
+      "items": [
+        {
+          "type": "li",
+          "class": "question",
+          "id": "ques1-1",
+          "text": "I'm always allowed to be kind and supportive to myself."
+        },
+        {
+          "type": "li",
+          "class": "question",
+          "id": "ques1-2",
+          "text": "At the time, I did my best."
+        },
+        {
+          "type": "li",
+          "class": "question",
+          "id": "ques1-3",
+          "text": "I treat myself with the same compassion & kindness I offer others."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Think of a situation in your life that is causing confusion or unease."
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "class": "question",
+          "id": "ques1-4",
+          "text": "What is the truth of this situation?"
+        },
+        {
+          "type": "li",
+          "class": "question",
+          "id": "ques1-5",
+          "text": "Are you seeing clearly, or are you getting lost in judgment, taking things personally, in stories you're telling yourself, or repeating past messages you've internalized? How?"
+        },
+        {
+          "type": "li",
+          "class": "question",
+          "id": "ques1-6",
+          "text": "Is your vision clouded by greed, hatred, confusion, clinging, attachment, or craving? How?"
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "text": "In what situations and parts of your life do you have the most difficulty separating desire from need?"
+    },
+    {
+      "type": "aftercare",
+      "text": "List 1-3 admirable action(s) you took this week (whether in self-care or in service to others.)"
+    }
+  ],
+  "class": "inqweek",
+  "id": "style2-1",
+  "seqNum": 1,
+  "seqName": "Week1"
+}

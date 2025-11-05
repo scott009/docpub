@@ -1,0 +1,113 @@
+/* ri2.css — spacing + typography refinements for Reordered Inquiries */
+
+/* Typography foundations */
+:root{
+  --fg:#111;
+  --bg:#fafafa;
+  --card:#fff;
+  --muted:#666;
+  --border:#eaeaea;
+  --accent:#2f6feb;
+  --accent-weak:#e6f0ff;
+  --success:#22a06b;
+  --success-weak:#e9f9f1;
+}
+
+*{box-sizing:border-box}
+
+/* Headings stay sans-serif */
+h1,h2,h3{
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  color:var(--fg);
+  line-height:1.2;
+}
+
+/* Paragraphs switch to a readable serif for contrast */
+p, ul, ol, li{
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: var(--fg);
+}
+
+/* General paragraph spacing */
+p{ 
+  margin: 0.85rem 0 1.1rem;
+}
+
+/* Stronger separation between question paragraphs */
+.inqweek .question{
+  display: block;
+  margin: 1.1rem 0 1.3rem;   /* more space around questions */
+  padding-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+/* When questions follow each other, add even more top spacing */
+.inqweek .question + .question{
+  margin-top: 1.2rem;
+}
+
+/* Optional subtle divider between groups of questions */
+.inqweek .question:not(:last-child){
+  border-bottom: 1px dashed #ddd;
+}
+
+/* Grounding / aftercare blocks keep their emphasis */
+.grounding{
+  background: var(--accent-weak);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  padding: .7rem .85rem;
+  margin: 1rem 0 1.25rem;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.aftercare{
+  background: var(--success-weak);
+  border-left: 4px solid var(--success);
+  border-radius: 8px;
+  padding: .7rem .85rem;
+  margin: 1rem 0 1.25rem;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+/* Week cards */
+.inqweek{
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.2rem 1.35rem;
+  margin: 1.1rem 0 1.4rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,.03);
+}
+
+/* Bigger week headings for stronger hierarchy */
+#weeks h3{
+  font-size: 1.45rem;     /* larger than preamble h3 */
+  margin: .2rem 0 .8rem;
+}
+
+/* Sequence name styling within week headings */
+.seqName{
+  font-weight: 700;
+}
+
+/* Preamble spacing & typography remains calm but legible */
+#preamble h3{
+  font-size: 1.15rem;
+  margin: 1rem 0 .5rem;
+}
+.preamble1{ color:#333; }
+.toc1{ color:#222; }
+
+/* Lists */
+ul,ol{ padding-left: 1.25rem; margin: .6rem 0 1rem; }
+li{ margin: .25rem 0; }
+
+/* Horizontal rule */
+hr{ border: none; border-top: 1px solid #e5e5e5; margin: 1.2rem 0; }
+
+/* Links */
+a{ color: var(--accent); text-decoration: none; }
+a:hover{ text-decoration: underline; }

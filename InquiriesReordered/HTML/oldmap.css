@@ -1,0 +1,109 @@
+/* old map.css — Simple, readable beige theme evoking an old map (no images) */
+
+:root{
+  --bg: #f4efe6;         /* parchment-like */
+  --bg-alt: #efe7da;     /* subtle variation */
+  --fg: #2b2b2b;         /* dark charcoal for contrast */
+  --muted: #5a5347;      /* warm muted text */
+  --border: #d2c6b2;     /* tea-stained border */
+  --ink: #2a1f14;        /* ink-like headings */
+  --accent: #7a5c2e;     /* sepia accent */
+  --accent-soft: #efe6d6;
+  --success: #2f6b47;
+  --success-soft: #e6f1e9;
+}
+
+*{ box-sizing: border-box; }
+
+/* Headings keep sans-serif for clarity; body uses a classic serif */
+h1,h2,h3{
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  line-height: 1.25;
+  margin: 1.25em 0 .6em;
+  letter-spacing: .02em;
+}
+
+body{
+  margin: 0;
+  color: var(--fg);
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-alt) 100%);
+  font-family: "Georgia", Cambria, "Times New Roman", Times, serif;
+  line-height: 1.75;
+}
+
+main{
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: rgba(255,255,255,0.3); /* gentle lift */
+}
+
+h1.title1{
+  text-align: center;
+  font-size: 2.1rem;
+  margin-top: 0.2rem;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+  border-bottom: 2px solid var(--border);
+  padding-bottom: .5rem;
+}
+
+#preamble h2, #weeks h2{ font-size: 1.5rem; color: var(--ink); }
+#preamble h3, #weeks h3{ font-size: 1.2rem; color: var(--ink); }
+
+/* Card-like sections with warm borders */
+.inqweek{
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.1rem 1.3rem;
+  margin: 1.1rem 0 1.4rem;
+  box-shadow: 0 1px 0 rgba(42,31,20,0.06);
+}
+
+.seqName{ font-weight: 700; color: var(--accent); }
+
+/* Paragraphs and lists */
+p, ul, ol, li{
+  font-size: 1rem;
+  color: var(--fg);
+}
+p{ margin: .85rem 0 1.1rem; }
+
+/* Questions: larger spacing and a faint rule for separation */
+.question{
+  font-weight: 600;
+  margin: 1rem 0 1.25rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px dashed #cbbba3;
+}
+
+/* Grounding / Aftercare blocks use warm tints */
+.grounding{
+  background: #f3ead7;
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  padding: .75rem .9rem;
+  margin: 1rem 0 1.25rem;
+  color: var(--muted);
+}
+
+.aftercare{
+  background: #eaf3ea;
+  border-left: 4px solid var(--success);
+  border-radius: 8px;
+  padding: .75rem .9rem;
+  margin: 1rem 0 1.25rem;
+  color: var(--muted);
+}
+
+.preamble1{ color: var(--muted); }
+.toc1{ color: var(--ink); }
+
+ul,ol{ padding-left: 1.25rem; margin: .6rem 0 1rem; }
+li{ margin: .25rem 0; }
+
+hr{ border: none; border-top: 1px solid var(--border); margin: 1.2rem 0; }
+
+a{ color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+a:hover{ text-decoration-thickness: .12em; }
