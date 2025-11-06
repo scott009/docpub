@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "title": "Recovery Dharma",
+    "edition": "2.0",
+    "source_file": "Recovery Dharma 2.0.docx",
+    "extraction_date": "2025-11-06",
+    "extraction_method": "smart_pattern_analysis",
+    "license": "CC BY-SA 4.0",
+    "json_version": "3.1",
+    "section_id": 4,
+    "section_title": "Introduction",
+    "extracted_from": "RDGAsianMaster.json"
+  },
+  "section": {
+    "type": "section",
+    "id": 4,
+    "status": "draft",
+    "title": "Introduction",
+    "chapters": [
+      {
+        "type": "chapter",
+        "id": 9,
+        "status": "draft",
+        "title": "WHAT IS RECOVERY DHARMA?",
+        "thai_title": "การฟื้นฟูด้วยธรรมะคืออะไร?",
+        "vietnamese_title": "PHỤC HỒI PHÁP LÀ GÌ?",
+        "korean_title": "회복 다르마란 무엇인가?",
+        "japanese_title": "リカバリー・ダルマとは何か？",
+        "Chinese_Tradition_title": "什麼是復原佛法？",
+        "Chinese_Simplified_title": "什么是复原佛法？",
+        "tibetan_title": "སོར་ཆུད་ཆོས་ནི་ཅི་ཞིག་ཡིན་ནམ།",
+        "sections": [
+          {
+            "type": "section",
+            "id": 1,
+            "heading": "",
+            "content": [
+              {
+                "type": "paragraph",
+                "id": "p9-1",
+                "text": "Dharma is a Sanskrit word meaning “truth,” “phenomena,” or “the nature of things.” When it’s capitalized, Dharma usually means the teachings of the Buddha and the practices based on those teachings.",
+                "thai_text": "ธรรมะเป็นคำภาษาสันสกฤตที่มีความหมายว่า \"ความจริง\" \"ปรากฏการณ์\" หรือ \"ธรรมชาติของสิ่งต่างๆ\" เมื่อเขียนด้วยตัวพิมพ์ใหญ่ ธรรมะมักหมายถึงคำสอนของพระพุทธเจ้าและการปฏิบัติที่มีรากฐานมาจากคำสอนเหล่านั้น",
+                "vietnamese_text": "Pháp là một từ Phạn ngữ có nghĩa là \"chân lý,\" \"hiện tượng,\" hoặc \"bản chất của sự vật.\" Khi viết hoa chữ cái đầu, Pháp thường có nghĩa là giáo pháp của Đức Phật và các pháp hành dựa trên những giáo pháp đó.",
+                "korean_text": "다르마(Dharma)는 '진리', '현상', 또는 '사물의 본질'을 의미하는 산스크리트어입니다. 대문자로 표기될 때, 다르마는 일반적으로 부처님의 가르침과 그러한 가르침에 기반한 수행을 의미합니다.",
+                "japanese_text": "ダルマ（Dharma）は、「真理」、「現象」、または「物事の本質」を意味するサンスクリット語です。大文字で表記される場合、ダルマは通常、仏陀の教えとそれらの教えに基づく実践を意味します。",
+                "Chinese_Tradition_text": "佛法（Dharma）是一個梵文詞，意思是「真理」、「現象」或「事物的本質」。當首字母大寫時，佛法通常指佛陀的教義和基於這些教義的修行方法。",
+                "Chinese_Simplified_text": "佛法（Dharma）是一个梵文词，意思是\"真理\"、\"现象\"或\"事物的本质\"。当首字母大写时，佛法通常指佛陀的教义和基于这些教义的修行方法。",
+                "tibetan_text": "ཆོས་ནི་ལེགས་སྦྱར་སྐད་ཀྱི་ཚིག་ཞིག་ཡིན་པ་དང་། དེའི་དོན་ནི་\"བདེན་པ\" \"ཆོས་ཉིད\" ཡང་ན་\"དངོས་པོའི་ངོ་བོ\" ལ་གོ དབུ་ཅན་གྱིས་བྲིས་པའི་ཆོས་ནི། སྤྱིར་བཏང་སངས་རྒྱས་ཀྱི་བསྟན་པ་དང་བསྟན་པ་དེ་དག་ལ་གཞི་བཅོལ་བའི་སྒྲུབ་པ་ལ་གོ"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-2",
+                "text": "The Buddha knew that all human beings, to some extent, strug gle with craving — the powerful, sometimes blinding desire to change our thoughts, feelings, or circumstances. Those of us who experience ad diction have been driven to use substances and/or harmful behaviors in a habitual pattern to try and create this desired change. Even though the Buddha didn’t talk specifically about addiction, he understood the obsessive nature of the human mind. He understood our attachment to pleasure and aversion to pain. He understood the extreme measures we are willing to take, chasing what we want to feel and running away from feelings we fear. And he found a solution.",
+                "thai_text": "พระพุทธเจ้าทรงทราบว่ามนุษย์ทุกคนต่างต้องต่อสู้กับตัณหาในระดับหนึ่ง คือความปรารถนาอันทรงพลังและบางครั้งทำให้มองไม่เห็นสิ่งอื่น ที่ต้องการเปลี่ยนแปลงความคิด ความรู้สึก หรือสถานการณ์ของเรา พวกเราที่ประสบกับภาวะติดยาเสพติดถูกผลักดันให้ใช้สารเสพติด และ/หรือ พฤติกรรมที่เป็นอันตรายในรูปแบบที่เป็นนิสัยเพื่อพยายามสร้างการเปลี่ยนแปลงที่ปรารถนานี้ แม้ว่าพระพุทธเจ้าจะไม่ได้พูดถึงภาวะติดยาเสพติดโดยเฉพาะ แต่พระองค์เข้าใจธรรมชาติหมกมุ่นของจิตใจมนุษย์ พระองค์เข้าใจความยึดติดในความสุขและความเกลียดชังความทุกข์ พระองค์เข้าใจมาตรการที่รุนแรงที่เรายินดีทำ ไล่ตามสิ่งที่เราต้องการรู้สึกและหนีจากความรู้สึกที่เรากลัว และพระองค์พบทางออก",
+                "vietnamese_text": "Đức Phật biết rằng tất cả chúng sinh, ở một mức độ nào đó, đều phải đấu tranh với khát ái — ham muốn mạnh mẽ, đôi khi mù quáng để thay đổi suy nghĩ, cảm xúc, hoặc hoàn cảnh của chúng ta. Những người trong chúng ta trải qua nghiện ngập đã bị thúc đẩy sử dụng các chất gây nghiện và/hoặc hành vi có hại theo thói quen để cố gắng tạo ra sự thay đổi mong muốn này. Mặc dù Đức Phật không nói cụ thể về nghiện ngập, nhưng Ngài hiểu bản chất ám ảnh của tâm trí con người. Ngài hiểu sự gắn bó của chúng ta với khoái lạc và sự ghê sợ đau khổ. Ngài hiểu những biện pháp cực đoan mà chúng ta sẵn sàng thực hiện, đuổi theo những gì chúng ta muốn cảm nhận và chạy trốn khỏi những cảm giác chúng ta sợ hãi. Và Ngài đã tìm ra giải pháp.",
+                "korean_text": "부처님은 모든 인간이 어느 정도는 갈애와 씨름한다는 것을 알고 계셨습니다. 갈애란 우리의 생각, 감정, 또는 상황을 바꾸고자 하는 강력하고 때로는 맹목적인 욕망입니다. 중독을 경험하는 우리는 이러한 원하는 변화를 만들기 위해 습관적인 패턴으로 물질이나 해로운 행동을 사용하도록 몰려왔습니다. 부처님께서 중독에 대해 구체적으로 말씀하지 않으셨지만, 그분은 인간 마음의 집착적 본질을 이해하셨습니다. 그분은 쾌락에 대한 우리의 집착과 고통에 대한 혐오를 이해하셨습니다. 그분은 우리가 느끼고 싶은 것을 쫓고 두려워하는 감정에서 도망치기 위해 기꺼이 취하는 극단적인 조치들을 이해하셨습니다. 그리고 그분은 해결책을 찾으셨습니다.",
+                "japanese_text": "仏陀は、すべての人間がある程度、渇愛と闘っていることを知っていました。渇愛とは、私たちの思考、感情、または状況を変えたいという強力で、時には盲目的な欲望です。依存症を経験している私たちは、この望ましい変化を生み出そうとして、習慣的なパターンで物質や有害な行動を使用するよう駆り立てられてきました。仏陀は依存症について具体的に語ってはいませんでしたが、人間の心の強迫的な性質を理解していました。快楽への執着と苦痛への嫌悪を理解していました。私たちが感じたいものを追いかけ、恐れる感情から逃げるために喜んで取る極端な手段を理解していました。そして解決策を見つけたのです。",
+                "Chinese_Tradition_text": "佛陀知道所有人在某種程度上都與渴愛掙扎——那種強烈的、有時令人盲目的欲望，想要改變我們的思想、感受或境遇。我們這些經歷成癮的人被驅使使用物質和／或有害行為，以習慣性的模式試圖創造這種期望的改變。儘管佛陀沒有具體談論成癮，但他理解人類心智的執著本質。他理解我們對快樂的執著和對痛苦的厭惡。他理解我們願意採取的極端措施，追逐我們想要感受的東西，逃避我們害怕的感受。而他找到了解決方案。",
+                "Chinese_Simplified_text": "佛陀知道所有人在某种程度上都与渴爱挣扎——那种强烈的、有时令人盲目的欲望，想要改变我们的思想、感受或境遇。我们这些经历成瘾的人被驱使使用物质和/或有害行为，以习惯性的模式试图创造这种期望的改变。尽管佛陀没有具体谈论成瘾，但他理解人类心智的执着本质。他理解我们对快乐的执着和对痛苦的厌恶。他理解我们愿意采取的极端措施，追逐我们想要感受的东西，逃避我们害怕的感受。而他找到了解决方案。",
+                "tibetan_text": "སངས་རྒྱས་ཀྱིས་མི་རིགས་ཐམས་ཅད་ཅི་ཙམ་ཞིག་ལ་སྲེད་པ་དང་འབྲེལ་བའི་འཐབ་རྩོད་བྱེད་དགོས་པ་དེ་མཁྱེན་གྱི་ཡོད། སྲེད་པ་ནི་ང་ཚོའི་བསམ་བློ། ཚོར་བ། ཡང་ན་གནས་སྟངས་བསྒྱུར་བ་ལ་དམིགས་པའི་མཐུ་ཆེ་ཞིང་མཚམས་རེར་མིག་ལོང་དུ་གཏོང་བའི་འདོད་པ་ཡིན། ང་ཚོ་འདི་ལྟར་མྱོང་བ་ཐོབ་པའི་གང་ཟག་རྣམས་འཁོར་བ་ལ་བཅུག་ནས་གོམས་གཤིས་ཀྱི་རྣམ་པར་བཏང་སྙོམས་དང་ཡང་ན་གནོད་པའི་སྤྱོད་ལམ་བཀོལ་དགོས་པ་ཆགས་ཡོད། སངས་རྒྱས་ཀྱིས་འཁོར་བའི་སྐོར་ལ་ངེས་པར་གསུང་མ་གནང་ཡང་། ཁོང་གིས་མི་སེམས་ཀྱི་ཆགས་པའི་རང་བཞིན་ཧ་གོ་གི་ཡོད། བདེ་བ་ལ་ཆགས་པ་དང་སྡུག་བསྔལ་ལ་སྡང་བ་དེ་ཁོང་གིས་ཧ་གོ་གི་ཡོད། ང་ཚོས་ཚོར་བར་འདོད་པ་བཙལ་ཞིང་ང་ཚོས་འཇིགས་པའི་ཚོར་བ་ལས་བྲོས་ནས་བྱེད་འདོད་པའི་ཐབས་ཆེན་པོ་དེ་དག་ཁོང་གིས་ཧ་གོ་གི་ཡོད། དེ་ནས་ཁོང་གིས་ཐབས་ཤེས་ཞིག་རྙེད་པ་ཡིན།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-3",
+                "text": "This book describes a way to free ourselves from the suffering of addiction using Buddhist practices and principles. This program leads to recovery from addiction to substances like alcohol and drugs and from process addictions like sex, gambling, pornography, technology, work, codependence, shopping, eating, media, self-harm, lying, stealing, and obsessive worrying. This is a path to freedom from any repetitive and habitual behavior that causes suffering.",
+                "thai_text": "หนังสือเล่มนี้บรรยายถึงวิธีการปลดปล่อยตัวเราเองจากความทุกข์ของภาวะติดยาเสพติดโดยใช้การปฏิบัติและหลักการของพระพุทธศาสนา โปรแกรมนี้นำไปสู่การฟื้นฟูจากการติดสารเสพติดเช่นแอลกอฮอล์และยาเสพติด และจากการติดกระบวนการต่างๆ เช่น เพศสัมพันธ์ การพนัน ลามกอนาจาร เทคโนโลยี การทำงาน การพึ่งพาผู้อื่น การช็อปปิ้ง การกิน สื่อ การทำร้ายตนเอง การโกหก การขโมย และความกังวลเป็นทุนทรัพย์ นี่คือเส้นทางสู่เสรีภาพจากพฤติกรรมที่เกิดซ้ำและเป็นนิสัยที่ก่อให้เกิดความทุกข์",
+                "vietnamese_text": "Cuốn sách này mô tả một cách để giải thoát chúng ta khỏi nỗi đau khổ của nghiện ngập bằng cách sử dụng các pháp hành và nguyên tắc Phật giáo. Chương trình này dẫn đến sự phục hồi từ nghiện các chất như rượu và ma túy và từ các nghiện quá trình như tình dục, cờ bạc, khiêu dâm, công nghệ, công việc, phụ thuộc lẫn nhau, mua sắm, ăn uống, truyền thông, tự gây tổn thương, nói dối, trộm cắp và lo lắng ám ảnh. Đây là con đường dẫn đến tự do khỏi bất kỳ hành vi lặp đi lặp lại và thói quen nào gây ra đau khổ.",
+                "korean_text": "이 책은 불교 수행과 원칙을 사용하여 중독의 고통에서 우리 자신을 해방시키는 방법을 설명합니다. 이 프로그램은 알코올과 약물과 같은 물질 중독으로부터의 회복과 성, 도박, 포르노, 기술, 일, 공동의존, 쇼핑, 음식, 미디어, 자해, 거짓말, 절도, 강박적 걱정과 같은 과정 중독으로부터의 회복으로 이어집니다. 이것은 고통을 일으키는 반복적이고 습관적인 행동으로부터의 자유로 가는 길입니다.",
+                "japanese_text": "この本は、仏教の実践と原則を使用して、依存症の苦しみから私たち自身を解放する方法を説明しています。このプログラムは、アルコールや薬物などの物質への依存からの回復、そして性、ギャンブル、ポルノ、テクノロジー、仕事、共依存、買い物、食事、メディア、自傷行為、嘘、窃盗、強迫的な心配などのプロセス依存症からの回復につながります。これは、苦しみを引き起こす反復的で習慣的な行動からの自由への道です。",
+                "Chinese_Tradition_text": "本書描述了一種利用佛教修行和原則從成癮的痛苦中解脫自己的方法。這個計劃引導從對酒精和毒品等物質的成癮中復原，以及從性、賭博、色情、科技、工作、共依存、購物、飲食、媒體、自我傷害、說謊、偷竊和強迫性擔憂等過程成癮中復原。這是一條通往自由的道路，遠離任何導致痛苦的重複和習慣性行為。",
+                "Chinese_Simplified_text": "本书描述了一种利用佛教修行和原则从成瘾的痛苦中解脱自己的方法。这个计划引导从对酒精和毒品等物质的成瘾中复原，以及从性、赌博、色情、科技、工作、共依存、购物、饮食、媒体、自我伤害、说谎、偷窃和强迫性担忧等过程成瘾中复原。这是一条通往自由的道路，远离任何导致痛苦的重复和习惯性行为。",
+                "tibetan_text": "དེབ་འདིས་ནང་པའི་སྒྲུབ་པ་དང་གཞི་རྩ་བཀོལ་སྤྱོད་དེ་འཁོར་བའི་སྡུག་བསྔལ་ལས་རང་ཉིད་གྲོལ་བའི་ཐབས་ལམ་ཞིག་བཤད་ཀྱི་ཡོད། ལས་རིམ་འདིས་ཆང་དང་སྨན་རྫས་ལྟ་བུའི་དངོས་པོ་ལ་ཆགས་པའི་འཁོར་བ་ལས་སོར་ཆུད་དང་། ཡང་བྱ་བའི་འཁོར་བ་ཇི་ལྟར་འདོད་ཆགས། རྩེད་འཇོ། སྒྱུ་རྟགས་དྲ་བ། ལག་རྩལ། ལས་ཀ། གཞན་ལ་རག་ལུས། ཉོ་ཆ། ཟས་ནོར་བྱེད། བརྒྱུད་ལམ། རང་གནོད། རྫུན་གླེང་། རྐུ་ཉེན། དང་དཀའ་སྤྱད་སེམས་ཁྲལ་སོགས་ལས་ཀྱང་སོར་ཆུད་ལ་འདྲེན་གྱི་ཡོད། འདི་ནི་སྡུག་བསྔལ་སྐྱེད་པའི་ལན་གསོ་དང་གོམས་གཤིས་ཀྱི་སྤྱོད་ལམ་གང་རུང་ལས་རང་དབང་གི་ལམ་ཞིག་ཡིན།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-4",
+                "text": "Some of us reading this book may be unfamiliar with Buddhism or have not used Buddhist practices as a pathway to recovery. There might also be unfamiliar Buddhist words and concepts in this book. We also understand that what we present in this book does not encompass all Buddhist traditions, lineages, teachings, and practices, and may to some extent differ from your own Buddhist practice. Our aim is to clear ly describe our path and practice in Recovery Dharma for people new to recovery, new to Buddhism, and for those familiar with both. This book describes the original Buddhist teachings from which our program comes, the essence of Buddhism’s fundamental and early teachings — the Four Noble Truths — to show how practicing the Eightfold Path is a pragmatic pathway which can transform the challenges of both early and long-term recovery.",
+                "thai_text": "พวกเราบางคนที่อ่านหนังสือเล่มนี้อาจไม่คุ้นเคยกับพระพุทธศาสนาหรือไม่เคยใช้การปฏิบัติของพระพุทธศาสนาเป็นเส้นทางสู่การฟื้นฟู อาจมีคำและแนวคิดของพระพุทธศาสนาที่ไม่คุ้นเคยในหนังสือเล่มนี้ เราเข้าใจด้วยว่าสิ่งที่เรานำเสนอในหนังสือเล่มนี้ไม่ครอบคลุมประเพณีพระพุทธศาสนาทั้งหมด สายวงศ์ คำสอน และการปฏิบัติ และอาจแตกต่างจากการปฏิบัติพระพุทธศาสนาของคุณในระดับหนึ่ง เป้าหมายของเราคือการอธิบายอย่างชัดเจนถึงเส้นทางและการปฏิบัติของเราในการฟื้นฟูด้วยธรรมะสำหรับผู้ที่เพิ่งเริ่มการฟื้นฟู เพิ่งเริ่มศึกษาพระพุทธศาสนา และสำหรับผู้ที่คุ้นเคยกับทั้งสองอย่าง หนังสือเล่มนี้อธิบายคำสอนดั้งเดิมของพระพุทธศาสนาที่โปรแกรมของเรามาจาก แก่นแท้ของคำสอนพื้นฐานและแรกเริ่มของพระพุทธศาสนา คือ อริยสัจสี่ เพื่อแสดงให้เห็นว่าการปฏิบัติตามมรรคมีองค์แปดคือเส้นทางที่เป็นจริงซึ่งสามารถเปลี่ยนแปลงความท้าทายของทั้งการฟื้นฟูในระยะแรกและระยะยาว",
+                "vietnamese_text": "Một số người trong chúng ta đọc cuốn sách này có thể không quen thuộc với Phật giáo hoặc chưa sử dụng các pháp hành Phật giáo như một con đường phục hồi. Cũng có thể có những từ ngữ và khái niệm Phật giáo không quen thuộc trong cuốn sách này. Chúng tôi cũng hiểu rằng những gì chúng tôi trình bày trong cuốn sách này không bao gồm tất cả các truyền thống, dòng phái, giáo pháp và pháp hành Phật giáo, và có thể ở một mức độ nào đó khác với pháp hành Phật giáo của riêng bạn. Mục tiêu của chúng tôi là mô tả rõ ràng con đường và pháp hành của chúng tôi trong Phục Hồi Pháp cho những người mới phục hồi, mới với Phật giáo, và cho những người quen thuộc với cả hai. Cuốn sách này mô tả các giáo pháp Phật giáo nguyên thủy mà chương trình của chúng tôi xuất phát từ đó, bản chất của các giáo pháp căn bản và sơ kỳ của Phật giáo — Tứ Diệu Đế — để cho thấy cách thực hành Bát Chánh Đạo là một con đường thực dụng có thể chuyển hóa những thách thức của cả phục hồi sớm và lâu dài.",
+                "korean_text": "이 책을 읽는 우리 중 일부는 불교에 익숙하지 않거나 불교 수행을 회복의 길로 사용하지 않았을 수 있습니다. 이 책에는 익숙하지 않은 불교 용어와 개념도 있을 수 있습니다. 우리는 또한 이 책에서 제시하는 내용이 모든 불교 전통, 계보, 가르침 및 수행을 포함하지 않으며, 어느 정도 여러분 자신의 불교 수행과 다를 수 있다는 것을 이해합니다. 우리의 목표는 회복에 새로운 사람들, 불교에 새로운 사람들, 그리고 둘 다에 익숙한 사람들을 위해 회복 다르마에서 우리의 길과 수행을 명확하게 설명하는 것입니다. 이 책은 우리 프로그램이 유래한 원래의 불교 가르침, 불교의 근본적이고 초기 가르침의 본질인 사성제를 설명하여 팔정도 수행이 초기 및 장기 회복의 도전을 변화시킬 수 있는 실용적인 길임을 보여줍니다.",
+                "japanese_text": "この本を読んでいる私たちの中には、仏教に不慣れな人や、回復への道として仏教の実践を使用したことがない人もいるかもしれません。この本には、馴染みのない仏教の言葉や概念もあるかもしれません。また、この本で提示する内容が、すべての仏教の伝統、系譜、教え、実践を網羅しているわけではなく、ある程度あなた自身の仏教の実践とは異なる可能性があることも理解しています。私たちの目的は、回復初心者、仏教初心者、そして両方に精通している人々のために、リカバリー・ダルマにおける私たちの道と実践を明確に説明することです。この本は、私たちのプログラムが由来する元々の仏教の教え、仏教の基本的で初期の教えの本質である四聖諦を説明し、八正道を実践することが、初期および長期の回復の課題を変えることができる実践的な道であることを示しています。",
+                "Chinese_Tradition_text": "我們中一些閱讀本書的人可能不熟悉佛教，或者沒有將佛教修行作為復原的途徑。本書中可能也有不熟悉的佛教詞彙和概念。我們也理解，我們在本書中呈現的內容並不包含所有佛教傳統、法脈、教義和修行，並且在某種程度上可能與您自己的佛教修行有所不同。我們的目標是清楚地描述我們在復原佛法中的道路和修行，為新接觸復原的人、新接觸佛教的人，以及熟悉兩者的人。本書描述了我們計劃所源自的原始佛教教義，佛教基本和早期教義的精髓——四聖諦——以展示如何修習八正道是一條實用的道路，可以轉化早期和長期復原的挑戰。",
+                "Chinese_Simplified_text": "我们中一些阅读本书的人可能不熟悉佛教，或者没有将佛教修行作为复原的途径。本书中可能也有不熟悉的佛教词汇和概念。我们也理解，我们在本书中呈现的内容并不包含所有佛教传统、法脉、教义和修行，并且在某种程度上可能与您自己的佛教修行有所不同。我们的目标是清楚地描述我们在复原佛法中的道路和修行，为新接触复原的人、新接触佛教的人，以及熟悉两者的人。本书描述了我们计划所源自的原始佛教教义，佛教基本和早期教义的精髓——四圣谛——以展示如何修习八正道是一条实用的道路，可以转化早期和长期复原的挑战。",
+                "tibetan_text": "དེབ་འདི་ཀློག་མཁན་གང་ཞིག་ནང་པའི་ཆོས་ལ་རྒྱུས་མངའ་མེད་པའམ་ཡང་ན་སོར་ཆུད་ཀྱི་ལམ་དུ་ནང་པའི་སྒྲུབ་པ་བཀོལ་སྤྱོད་བྱས་མེད་པ་ཡོད་སྲིད། དེབ་འདིར་རྒྱུས་མངའ་མེད་པའི་ནང་པའི་ཚིག་དང་རྣམ་གཞག་ཡང་ཡོད་སྲིད། ང་ཚོས་དེབ་འདིར་གསལ་བཤད་བྱེད་པ་ནི་ནང་པའི་བརྒྱུད་རིམ། རྒྱུད་པ། བསྟན་པ། དང་སྒྲུབ་པ་ཐམས་ཅད་ཁྱབ་མི་ཐུབ་པ་དང་། ཁྱོད་རང་གི་ནང་པའི་སྒྲུབ་པ་ལས་ཅི་ཙམ་ཞིག་ཐ་དད་ཡིན་པ་ཡང་ཧ་གོ་གི་ཡོད། ང་ཚོའི་དམིགས་ཡུལ་ནི་སོར་ཆུད་དང་ནང་པའི་ཆོས་ལ་གསར་པ་དང་གཉིས་ཀ་ལ་རྒྱུས་མངའ་བའི་མི་ལ་སོར་ཆུད་ཆོས་ནང་ང་ཚོའི་ལམ་དང་སྒྲུབ་པ་གསལ་པོ་བཤད་པ་ཡིན། དེབ་འདིས་ང་ཚོའི་ལས་རིམ་འབྱུང་ཁུངས་ཀྱི་ནང་པའི་གཞི་རྩའི་བསྟན་པ། ནང་པའི་རྩ་བ་དང་སྔ་མོའི་བསྟན་པའི་ངོ་བོ་ — བདེན་པ་བཞི་ — བཤད་ནས་ལམ་ཡན་ལག་བརྒྱད་སྒྲུབ་པ་ནི་སོར་ཆུད་སྔ་མོ་དང་རིང་པོ་གཉིས་ཀའི་དཀའ་གནད་བསྒྱུར་བ་ཐུབ་པའི་དོན་གཉེར་གྱི་ལམ་ཞིག་ཡིན་པ་སྟོན་པ་ཡིན།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-5",
+                "text": "This is a renunciation-based program. Regardless of our individ ual addictions, all of our members commit to a basic abstinence from that substance or behavior. For process addictions like food and technology, renunciation may mean establishing thoughtful boundaries and inten tions. For some of us, abstinence from things like obsessive sexual behav- ior, or compulsively seeking out love and relationships, may be necessary as we work to understand and find meaningful boundaries. Many of us have found that after renouncing our primary addiction for a period of time, other harmful behaviors and process addictions become apparent in our lives. Rather than getting discouraged, we found that we can meet these behaviors with compassion, wisdom, and patient investigation into our habitual tendencies. We believe recovery is a lifelong, holistic process of peeling back layers of habits and conditioned behaviors to find our own potential for awakening.",
+                "thai_text": "นี่คือโปรแกรมที่มีพื้นฐานจากการสละ โดยไม่คำนึงถึงความติดของเราแต่ละคน สมาชิกทุกคนของเราตั้งมั่นที่จะงดเว้นจากสารหรือพฤติกรรมนั้นโดยพื้นฐาน สำหรับการติดกระบวนการเช่นอาหารและเทคโนโลยี การสละอาจหมายถึงการตั้งขอบเขตและความตั้งใจที่รอบคอบ สำหรับพวกเราบางคน การงดเว้นจากสิ่งต่างๆ เช่น พฤติกรรมทางเพศที่หมกมุ่น หรือการแสวงหาความรักและความสัมพันธ์อย่างบีบบังคับ อาจจำเป็นในขณะที่เราทำงานเพื่อเข้าใจและหาขอบเขตที่มีความหมาย พวกเราหลายคนพบว่าหลังจากสละการติดหลักของเราไประยะหนึ่ง พฤติกรรมที่เป็นอันตรายอื่นๆ และการติดกระบวนการอื่นๆ ปรากฏชัดในชีวิตของเรา แทนที่จะท้อแท้ เราพบว่าเราสามารถพบพฤติกรรมเหล่านี้ด้วยความเมตตา ปัญญา และการสืบสวนอย่างอดทนในแนวโน้มนิสัยของเรา เราเชื่อว่าการฟื้นฟูเป็นกระบวนการแบบองค์รวมตลอดชีวิตของการลอกชั้นของนิสัยและพฤติกรรมที่มีเงื่อนไขเพื่อค้นหาศักยภาพของเราเองในการตื่นรู้",
+                "vietnamese_text": "Đây là một chương trình dựa trên sự từ bỏ. Bất kể nghiện ngập cá nhân của chúng ta là gì, tất cả các thành viên của chúng tôi cam kết kiêng cữ cơ bản từ chất hoặc hành vi đó. Đối với các nghiện quá trình như thức ăn và công nghệ, từ bỏ có thể có nghĩa là thiết lập ranh giới và ý định chu đáo. Đối với một số người trong chúng ta, kiêng cữ những thứ như hành vi tình dục ám ảnh, hoặc cưỡng ép tìm kiếm tình yêu và các mối quan hệ, có thể là cần thiết khi chúng ta làm việc để hiểu và tìm ranh giới có ý nghĩa. Nhiều người trong chúng ta đã phát hiện ra rằng sau khi từ bỏ nghiện chính của mình trong một khoảng thời gian, các hành vi có hại khác và các nghiện quá trình khác trở nên rõ ràng trong cuộc sống của chúng ta. Thay vì nản lòng, chúng tôi nhận thấy rằng chúng ta có thể gặp gỡ những hành vi này với lòng từ bi, trí tuệ và sự điều tra kiên nhẫn vào các xu hướng thói quen của chúng ta. Chúng tôi tin rằng phục hồi là một quá trình toàn diện suốt đời của việc lột bỏ các lớp thói quen và hành vi có điều kiện để tìm ra tiềm năng giác ngộ của chính chúng ta.",
+                "korean_text": "이것은 포기에 기반한 프로그램입니다. 우리의 개별 중독이 무엇이든 간에, 우리 회원 모두는 그 물질이나 행동으로부터 기본적인 금욕을 약속합니다. 음식과 기술과 같은 과정 중독의 경우, 포기는 사려 깊은 경계와 의도를 확립하는 것을 의미할 수 있습니다. 우리 중 일부에게는 강박적인 성적 행동이나 사랑과 관계를 강박적으로 추구하는 것과 같은 것들로부터의 금욕이 우리가 의미 있는 경계를 이해하고 찾기 위해 노력할 때 필요할 수 있습니다. 우리 중 많은 사람들은 일정 기간 동안 주요 중독을 포기한 후, 다른 해로운 행동과 과정 중독이 우리 삶에서 명백해진다는 것을 발견했습니다. 낙담하기보다는, 우리는 자비, 지혜, 그리고 우리의 습관적 경향에 대한 인내심 있는 조사로 이러한 행동들을 만날 수 있다는 것을 발견했습니다. 우리는 회복이 우리 자신의 깨달음 잠재력을 찾기 위해 습관과 조건화된 행동의 층을 벗겨내는 평생의 전체적 과정이라고 믿습니다.",
+                "japanese_text": "これは放棄に基づくプログラムです。私たちの個々の依存症が何であれ、私たちのすべてのメンバーは、その物質または行動から基本的に禁欲することを約束します。食べ物やテクノロジーのようなプロセス依存症の場合、放棄は思慮深い境界と意図を確立することを意味するかもしれません。私たちの一部にとって、強迫的な性的行動や、愛と関係を強迫的に求めることのようなものからの禁欲は、私たちが意味のある境界を理解し見つけるために取り組む際に必要かもしれません。私たちの多くは、一定期間主要な依存症を放棄した後、他の有害な行動やプロセス依存症が私たちの生活の中で明らかになることを発見しました。落胆するのではなく、私たちはこれらの行動を慈悲、知恵、そして私たちの習慣的傾向への忍耐強い調査で迎えることができることを発見しました。私たちは、回復は私たち自身の覚醒の可能性を見つけるために、習慣と条件付けられた行動の層を剥がす生涯にわたる全体的なプロセスであると信じています。",
+                "Chinese_Tradition_text": "這是一個基於放下的計劃。無論我們個人的成癮是什麼，我們所有的成員都承諾從該物質或行為中基本戒除。對於像食物和科技這樣的過程成癮，放下可能意味著建立深思熟慮的界限和意圖。對於我們中的一些人來說，戒除像強迫性性行為或強迫性尋求愛情和關係這樣的事情，可能是必要的，因為我們努力理解和找到有意義的界限。我們中的許多人發現，在放下我們的主要成癮一段時間後，其他有害行為和過程成癮在我們的生活中變得明顯。我們沒有氣餒，而是發現我們可以用慈悲、智慧和耐心調查我們的習慣傾向來面對這些行為。我們相信復原是一個終身的、整體的過程，剝離習慣和條件行為的層次，以找到我們自己覺醒的潛力。",
+                "Chinese_Simplified_text": "这是一个基于放下的计划。无论我们个人的成瘾是什么，我们所有的成员都承诺从该物质或行为中基本戒除。对于像食物和科技这样的过程成瘾，放下可能意味着建立深思熟虑的界限和意图。对于我们中的一些人来说，戒除像强迫性性行为或强迫性寻求爱情和关系这样的事情，可能是必要的，因为我们努力理解和找到有意义的界限。我们中的许多人发现，在放下我们的主要成瘾一段时间后，其他有害行为和过程成瘾在我们的生活中变得明显。我们没有气馁，而是发现我们可以用慈悲、智慧和耐心调查我们的习惯倾向来面对这些行为。我们相信复原是一个终身的、整体的过程，剥离习惯和条件行为的层次，以找到我们自己觉醒的潜力。",
+                "tibetan_text": "འདི་ནི་སྤངས་པ་ལ་གཞི་བཅོལ་བའི་ལས་རིམ་ཞིག་ཡིན། ང་ཚོའི་སོ་སོའི་འཁོར་བ་གང་ཡིན་ཡང་རུང་། ང་ཚོའི་འཐུས་མི་ཚང་མས་དངོས་པོ་ཡང་ན་སྤྱོད་ལམ་དེ་ལས་གཞི་རྩའི་ཉེན་སྲུང་བྱེད་པར་དམ་བཅའ་བྱེད་ཀྱི་ཡོད། ཟས་ནོར་དང་ལག་རྩལ་ལྟ་བུའི་བྱ་བའི་འཁོར་བ་ལ། སྤངས་པ་ནི་བསམ་བློའི་མཐའ་མཚམས་དང་དགོངས་པ་གཞག་པ་ལ་གོ་སྲིད། ང་ཚོ་ཁག་ཅིག་ལ། དཔེར་ན་ཆགས་སྡང་གི་སྤྱོད་ལམ་ཡང་ན་བྱམས་པ་དང་འབྲེལ་བ་ཚོལ་བའི་བཙན་ཤུགས་ལས་ཉེན་སྲུང་བྱེད་པ་ནི། ང་ཚོས་དོན་ཡོད་མཐའ་མཚམས་ཧ་གོ་དང་རྙེད་པར་འབད་པའི་སྐབས་དགོས་ངེས་ཡིན་སྲིད། ང་ཚོ་མང་པོས་རྙེད་པ་ནི་ང་ཚོའི་གཙོ་བོའི་འཁོར་བ་དུས་ཡུན་ཞིག་ལ་སྤངས་རྗེས། གནོད་པའི་སྤྱོད་ལམ་གཞན་དང་བྱ་བའི་འཁོར་བ་གཞན་དག་ང་ཚོའི་ཚེ་སྲོག་ནང་གསལ་པོར་འགྱུར་གྱི་ཡོད་པ་རེད། སེམས་པ་སྐྱོ་པོར་མ་ཆགས་པར། ང་ཚོས་སྤྱོད་ལམ་འདི་དག་སྙིང་རྗེ། ཤེས་རབ། དང་ང་ཚོའི་གོམས་གཤིས་ཀྱི་འཁྲིད་སྲོལ་ལ་བཟོད་བསྲན་གྱི་དཔྱད་པའི་སྒོ་ནས་འཕྲད་པ་རྙེད་པ་ཡིན། ང་ཚོས་སོར་ཆུད་ནི་རང་ཉིད་ཀྱི་སངས་རྒྱས་ཀྱི་ནུས་པ་རྙེད་པའི་ཆེད་དུ་གོམས་གཤིས་དང་རྐྱེན་གྱིས་བསྐྲུན་པའི་སྤྱོད་ལམ་གྱི་ཐང་ཤོག་མོ་ལོག་པའི་ཚེ་སྲོག་རིང་བའི་ཡོངས་སུ་རྫོགས་པའི་བྱ་བ་ཞིག་ཡིན་པར་ཡིད་ཆེས་ཀྱི་ཡོད།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-6",
+                "text": "Our program is peer-led: we do not follow any one teacher or leader. We support each other as partners walking the path of recovery together. This is not a program based in dogma or religion, but in find ing the truth for ourselves. This insight has worked for us, but is not the only path. It’s fully compatible with other spiritual paths and programs of recovery. We know from our own experience that true recovery is only possible with the intention of radical honesty, understanding, awareness, and integrity, and we trust you to discover your own path.",
+                "thai_text": "โปรแกรมของเราเป็นแบบเพื่อนนำเพื่อน เราไม่ติดตามครูหรือผู้นำคนใดคนหนึ่ง เราสนับสนุนซึ่งกันและกันในฐานะคู่หูที่เดินบนเส้นทางการฟื้นฟูด้วยกัน นี่ไม่ใช่โปรแกรมที่มีพื้นฐานจากหลักคำสอนหรือศาสนา แต่อยู่บนการค้นหาความจริงด้วยตัวเราเอง ความเข้าใจนี้ได้ผลสำหรับเรา แต่ไม่ใช่เส้นทางเดียว มันเข้ากันได้อย่างสมบูรณ์กับเส้นทางจิตวิญญาณและโปรแกรมการฟื้นฟูอื่นๆ เราทราบจากประสบการณ์ของเราเองว่าการฟื้นฟูที่แท้จริงเป็นไปได้เท่านั้นด้วยความตั้งใจของความซื่อสัตย์อย่างสุดขั้ว ความเข้าใจ การตระหนักรู้ และความซื่อตรง และเราไว้วางใจให้คุณค้นพบเส้นทางของคุณเอง",
+                "vietnamese_text": "Chương trình của chúng tôi do đồng đạo dẫn dắt: chúng tôi không theo bất kỳ giáo viên hoặc lãnh đạo nào. Chúng tôi hỗ trợ lẫn nhau như những đối tác cùng đi trên con đường phục hồi. Đây không phải là một chương trình dựa trên giáo điều hoặc tôn giáo, mà là tìm kiếm chân lý cho chính chúng ta. Sự hiểu biết này đã có tác dụng đối với chúng tôi, nhưng không phải là con đường duy nhất. Nó hoàn toàn tương thích với các con đường tâm linh và chương trình phục hồi khác. Chúng tôi biết từ kinh nghiệm của chính mình rằng phục hồi thực sự chỉ có thể thực hiện với ý định của sự trung thực triệt để, sự hiểu biết, nhận thức và chính trực, và chúng tôi tin tưởng bạn khám phá con đường của riêng bạn.",
+                "korean_text": "우리의 프로그램은 동료 주도입니다: 우리는 특정한 스승이나 지도자를 따르지 않습니다. 우리는 함께 회복의 길을 걷는 동반자로서 서로를 지원합니다. 이것은 교리나 종교에 기반한 프로그램이 아니라, 우리 자신을 위해 진리를 찾는 것입니다. 이 통찰은 우리에게 효과가 있었지만, 유일한 길은 아닙니다. 그것은 다른 영적 길과 회복 프로그램과 완전히 양립할 수 있습니다. 우리는 자신의 경험으로부터 진정한 회복은 철저한 정직, 이해, 자각, 성실의 의도로만 가능하다는 것을 알고 있으며, 우리는 당신이 자신의 길을 발견할 것이라고 믿습니다.",
+                "japanese_text": "私たちのプログラムはピア主導です：私たちは特定の教師やリーダーに従いません。私たちは回復の道を一緒に歩くパートナーとしてお互いをサポートします。これは教義や宗教に基づくプログラムではなく、私たち自身のために真実を見つけることです。この洞察は私たちにとって効果がありましたが、唯一の道ではありません。それは他のスピリチュアルな道や回復プログラムと完全に互換性があります。私たちは自分自身の経験から、真の回復は徹底的な正直さ、理解、気づき、誠実さの意図によってのみ可能であることを知っており、あなたが自分自身の道を発見することを信じています。",
+                "Chinese_Tradition_text": "我們的計劃是同儕主導的：我們不追隨任何一位老師或領導者。我們作為夥伴互相支持，共同走在復原的道路上。這不是一個基於教條或宗教的計劃，而是為自己尋找真理。這種洞見對我們有效，但不是唯一的道路。它完全兼容其他靈性道路和復原計劃。我們從自己的經驗中知道，真正的復原只有在徹底誠實、理解、覺察和正直的意圖下才有可能，我們相信您會發現自己的道路。",
+                "Chinese_Simplified_text": "我们的计划是同伴主导的：我们不追随任何一位老师或领导者。我们作为伙伴互相支持，共同走在复原的道路上。这不是一个基于教条或宗教的计划，而是为自己寻找真理。这种洞见对我们有效，但不是唯一的道路。它完全兼容其他灵性道路和复原计划。我们从自己的经验中知道，真正的复原只有在彻底诚实、理解、觉察和正直的意图下才有可能，我们相信您会发现自己的道路。",
+                "tibetan_text": "ང་ཚོའི་ལས་རིམ་ནི་གྲོགས་པོས་འདྲེན་པ་ཡིན། ང་ཚོས་སློབ་དཔོན་ཡང་ན་འདྲེན་པ་གང་རུང་ཞིག་འབྲང་གི་མེད། ང་ཚོས་སོར་ཆུད་ཀྱི་ལམ་ལ་མཉམ་དུ་འགྲོ་བའི་མཉམ་གྲོགས་སུ་ཕན་ཚུན་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་ཡོད། འདི་ནི་བསྟན་བཅོས་ཡང་ན་ཆོས་ལུགས་ལ་གཞི་བཅོལ་བའི་ལས་རིམ་མིན་པར། རང་ཉིད་ཀྱི་ཆེད་དུ་བདེན་པ་རྙེད་པ་ལ་གཞི་བཅོལ་བ་ཡིན། ཤེས་རབ་འདི་ང་ཚོར་ལས་འགྲུབ་བྱུང་ཡང་། ལམ་གཅིག་པུ་མིན། འདི་ནི་ཀླད་ཀོར་དང་སྒོམ་གྱི་ལམ་གཞན་དང་སོར་ཆུད་ཀྱི་ལས་རིམ་གཞན་དང་ཡོངས་སུ་མཐུན་པ་ཡིན། ང་ཚོས་རང་ཉིད་ཀྱི་ཉམས་མྱོང་ལས་བདེན་པའི་སོར་ཆུད་ནི་ཡང་དག་པའི་དྲང་བདེན། ཧ་གོ་བ། ཤེས་ཤིང་དྲན་པ། དང་དྲང་པོ་བ་ཉིད་ཀྱི་དགོངས་པ་དང་ལྡན་པའི་སྒོ་ནས་ཁོ་ན་སྲིད་པ་མཁྱེན་གྱི་ཡོད་ལ། ང་ཚོས་ཁྱོད་ཀྱིས་རང་ཉིད་ཀྱི་ལམ་རྙེད་པར་ཡིད་ཆེས་ཀྱི་ཡོད།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-7",
+                "text": "This is a program that asks us to never stop growing. It asks us to own our choices and be responsible for our own healing. It’s based on mindfulness, kindness, generosity, forgiveness, and deep compassion.",
+                "thai_text": "นี่คือโปรแกรมที่ขอให้เราไม่หยุดเติบโต มันขอให้เราเป็นเจ้าของตัวเลือกของเราและรับผิดชอบต่อการรักษาของเราเอง มันมีพื้นฐานจากสติ ความกรุณา ความเอื้อเฟื้อเผื่อแผ่ การให้อภัย และความเมตตาอย่างลึกซึ้ง",
+                "vietnamese_text": "Đây là một chương trình yêu cầu chúng ta không bao giờ ngừng phát triển. Nó yêu cầu chúng ta làm chủ các lựa chọn của mình và chịu trách nhiệm về sự chữa lành của chính mình. Nó dựa trên chánh niệm, lòng tốt, sự hào phóng, tha thứ và lòng từ bi sâu sắc.",
+                "korean_text": "이것은 우리에게 결코 성장을 멈추지 말 것을 요구하는 프로그램입니다. 그것은 우리에게 우리의 선택을 소유하고 우리 자신의 치유에 책임을 질 것을 요구합니다. 그것은 마음챙김, 친절, 관대함, 용서, 그리고 깊은 자비에 기반합니다.",
+                "japanese_text": "これは、私たちに決して成長を止めないことを求めるプログラムです。それは私たちに自分の選択を所有し、自分自身の癒しに責任を持つことを求めます。それはマインドフルネス、親切さ、寛大さ、許し、そして深い慈悲に基づいています。",
+                "Chinese_Tradition_text": "這是一個要求我們永不停止成長的計劃。它要求我們擁有自己的選擇，並對自己的療癒負責。它基於正念、仁慈、慷慨、寬恕和深深的慈悲。",
+                "Chinese_Simplified_text": "这是一个要求我们永不停止成长的计划。它要求我们拥有自己的选择，并对自己的疗愈负责。它基于正念、仁慈、慷慨、宽恕和深深的慈悲。",
+                "tibetan_text": "འདི་ནི་ང་ཚོར་རྒྱས་འཕེལ་བྱེད་པ་ནམ་ཡང་མི་བཞག་པར་འདྲི་བའི་ལས་རིམ་ཞིག་ཡིན། དེས་ང་ཚོར་རང་ཉིད་ཀྱི་འདེམས་ཀྱང་རྒྱུ་དང་རང་ཉིད་ཀྱི་གསོ་བ་ལ་འགན་འཁུར་བྱེད་པར་འདྲི་གི་ཡོད། དེ་ནི་དྲན་ཤེས། བྱམས་པ། གཏོང་སེམས། བཟོད་པ། དང་ཟབ་མོའི་སྙིང་རྗེ་ལ་གཞི་བཅོལ་བ་ཡིན།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-8",
+                "text": "We do not rely on methods of shame and fear as motivators. These haven’t worked in our own pasts, and have often created more struggle and suffering through relapse and discouragement. The courage it takes to recover from addiction is ultimately courage of the heart, and we aim to support each other as we commit to this brave work.",
+                "thai_text": "เราไม่พึ่งพาวิธีการของความอับอายและความกลัวเป็นแรงจูงใจ สิ่งเหล่านี้ไม่ได้ผลในอดีตของเรา และมักจะสร้างการต่อสู้และความทุกข์มากขึ้นผ่านการกลับไปเสพและความท้อแท้ ความกล้าหาญที่ต้องใช้ในการฟื้นฟูจากภาวะติดยาเสพติดคือความกล้าหาญของหัวใจในท้ายที่สุด และเรามุ่งหวังที่จะสนับสนุนซึ่งกันและกันในขณะที่เราตั้งมั่นกับงานที่กล้าหาญนี้",
+                "vietnamese_text": "Chúng tôi không dựa vào các phương pháp xấu hổ và sợ hãi làm động lực. Những điều này đã không hiệu quả trong quá khứ của chúng ta, và thường tạo ra nhiều đấu tranh và đau khổ hơn thông qua tái nghiện và nản lòng. Sự can đảm cần thiết để phục hồi từ nghiện ngập cuối cùng là sự can đảm của trái tim, và chúng tôi hướng tới việc hỗ trợ lẫn nhau khi chúng ta cam kết với công việc dũng cảm này.",
+                "korean_text": "우리는 동기부여로서 수치심과 두려움의 방법에 의존하지 않습니다. 이것들은 우리 자신의 과거에서 효과가 없었고, 종종 재발과 낙담을 통해 더 많은 투쟁과 고통을 만들어냈습니다. 중독으로부터 회복하는 데 필요한 용기는 궁극적으로 마음의 용기이며, 우리는 이 용감한 작업에 전념하면서 서로를 지원하는 것을 목표로 합니다.",
+                "japanese_text": "私たちは動機付けとして恥と恐怖の方法に頼りません。これらは私たち自身の過去では効果がなく、再発と落胆を通じてより多くの闘争と苦しみを生み出すことがよくありました。依存症から回復するのに必要な勇気は、最終的には心の勇気であり、私たちはこの勇敢な作業にコミットする際にお互いをサポートすることを目指しています。",
+                "Chinese_Tradition_text": "我們不依賴羞恥和恐懼的方法作為動力。這些在我們過去的經歷中沒有奏效，並且經常通過復發和沮喪造成更多的掙扎和痛苦。從成癮中復原所需的勇氣歸根結底是心靈的勇氣，我們的目標是在我們致力於這項勇敢的工作時互相支持。",
+                "Chinese_Simplified_text": "我们不依赖羞耻和恐惧的方法作为动力。这些在我们过去的经历中没有奏效，并且经常通过复发和沮丧造成更多的挣扎和痛苦。从成瘾中复原所需的勇气归根结底是心灵的勇气，我们的目标是在我们致力于这项勇敢的工作时互相支持。",
+                "tibetan_text": "ང་ཚོས་ངོ་ཚ་དང་འཇིགས་སྣང་གི་ཐབས་ལམ་ལ་བརྟེན་ནས་སེམས་སྐུལ་བྱེད་ཀྱི་མེད། དེ་དག་ནི་ང་ཚོའི་སྔ་མོའི་ལོ་རྒྱུས་ནང་ལས་འགྲུབ་མ་བྱུང་ཞིང་། མང་ཆེ་བ་ན་སྔར་ལྡོག་དང་སེམས་སྐྱོ་བའི་སྒོ་ནས་དཀའ་ངལ་དང་སྡུག་བསྔལ་མང་བ་བསྐྲུན་པ་རེད། འཁོར་བ་ལས་སོར་ཆུད་པར་དགོས་པའི་སྙིང་སྟོབས་ནི་མཐར་ཐུག་སེམས་ཀྱི་སྙིང་སྟོབས་ཡིན་ལ། ང་ཚོས་ལས་ཀ་སྙིང་སྟོབས་ལྡན་པ་འདིར་སྙིང་ཞུགས་བྱེད་པའི་སྐབས་ཕན་ཚུན་རྒྱབ་སྐྱོར་བྱེད་པར་དམིགས་བསལ་ཡོད།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-9",
+                "text": "Many of us have spent a lot of time criticizing ourselves. In this program, we renounce violence and doing harm, including the violence and harm we do to ourselves. We believe in the healing power of forgive ness. We put our trust in our own potential to awaken and recover, in the Four Noble Truths of the Buddha, and in the people we meet and connect with in meetings and throughout our journey in recovery.",
+                "thai_text": "พวกเราหลายคนใช้เวลามากในการวิพากษ์วิจารณ์ตนเอง ในโปรแกรมนี้ เราสละความรุนแรงและการทำอันตราย รวมถึงความรุนแรงและอันตรายที่เราทำกับตัวเราเอง เราเชื่อในพลังการรักษาของการให้อภัย เราวางความไว้วางใจในศักยภาพของเราเองที่จะตื่นรู้และฟื้นฟู ในอริยสัจสี่ของพระพุทธเจ้า และในผู้คนที่เราพบและเชื่อมต่อด้วยในการประชุมและตลอดการเดินทางของเราในการฟื้นฟู",
+                "vietnamese_text": "Nhiều người trong chúng ta đã dành rất nhiều thời gian để phê bình bản thân. Trong chương trình này, chúng tôi từ bỏ bạo lực và gây hại, bao gồm cả bạo lực và tổn hại mà chúng ta gây ra cho chính mình. Chúng tôi tin vào sức mạnh chữa lành của sự tha thứ. Chúng tôi đặt niềm tin vào tiềm năng giác ngộ và phục hồi của chính mình, vào Tứ Diệu Đế của Đức Phật, và vào những người chúng ta gặp gỡ và kết nối trong các cuộc họp và trong suốt hành trình phục hồi của chúng ta.",
+                "korean_text": "우리 중 많은 사람들은 우리 자신을 비판하는 데 많은 시간을 보냈습니다. 이 프로그램에서 우리는 우리 자신에게 하는 폭력과 해를 포함하여 폭력과 해를 끼치는 것을 포기합니다. 우리는 용서의 치유력을 믿습니다. 우리는 깨어나고 회복할 우리 자신의 잠재력, 부처님의 사성제, 그리고 모임에서 그리고 회복 여정 전반에 걸쳐 우리가 만나고 연결하는 사람들을 신뢰합니다.",
+                "japanese_text": "私たちの多くは、自分自身を批判することに多くの時間を費やしてきました。このプログラムでは、私たちは自分自身に対して行う暴力と害を含め、暴力と害を加えることを放棄します。私たちは許しの癒しの力を信じています。私たちは自分自身の覚醒と回復の可能性、仏陀の四聖諦、そして私たちが会合で出会い、つながる人々、そして回復の旅全体を通じて信頼します。",
+                "Chinese_Tradition_text": "我們中的許多人花了很多時間批評自己。在這個計劃中，我們放棄暴力和造成傷害，包括我們對自己造成的暴力和傷害。我們相信寬恕的療癒力量。我們信任自己覺醒和復原的潛力，信任佛陀的四聖諦，以及我們在會議中遇到和聯繫的人，以及在我們整個復原旅程中。",
+                "Chinese_Simplified_text": "我们中的许多人花了很多时间批评自己。在这个计划中，我们放弃暴力和造成伤害，包括我们对自己造成的暴力和伤害。我们相信宽恕的疗愈力量。我们信任自己觉醒和复原的潜力，信任佛陀的四圣谛，以及我们在会议中遇到和联系的人，以及在我们整个复原旅程中。",
+                "tibetan_text": "ང་ཚོ་མང་པོས་རང་ཉིད་སྐྱོན་བརྗོད་བྱེད་པར་དུས་ཚོད་མང་པོ་སྤྲད་པ་ཡིན། ལས་རིམ་འདིར། ང་ཚོས་འཚེ་བ་དང་གནོད་པ་བཟོ་བ་སྤངས་ཏེ། རང་ཉིད་ལ་བྱེད་པའི་འཚེ་བ་དང་གནོད་པ་ཡང་བསྡུས། ང་ཚོས་བཟོད་པའི་གསོ་བའི་ནུས་པ་ལ་ཡིད་ཆེས་ཀྱི་ཡོད། ང་ཚོས་རང་ཉིད་ཀྱི་སངས་རྒྱས་དང་སོར་ཆུད་ཀྱི་ནུས་པ། སངས་རྒྱས་ཀྱི་བདེན་པ་བཞི། དང་ང་ཚོས་ཚོགས་འདུ་ནང་འཕྲད་པའི་མི་དང་མཉམ་དུ་འབྲེལ་བ་བྱེད་པའི་མི་དང་ང་ཚོའི་སོར་ཆུད་ཀྱི་འགྲུལ་བཞུད་ཧྲིལ་པོར་ཡིད་ཆེས་ཀྱི་ཡོད།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-10",
+                "text": "Of course we cannot escape the circumstances and conditions that are part of the human condition. We’ve already tried — through drugs and alcohol, through sex and codependency, through gambling and technology, through work and shopping, through food or the restric tion of food, through obsession and the futile attempts to control our experiences and feelings — and we’re here because it didn’t work. This is a program that invites us to recognize and accept that some pain and disappointment will always be present, to investigate the unskillful ways we have dealt with that pain in the past, and to develop a habit of under- standing, compassion, forgiveness, and insight toward our own pain, the pain of others, and the pain we have caused. Acceptance with insight and compassion is what creates freedom from the suffering that makes our pain seem unbearable.",
+                "thai_text": "แน่นอนว่าเราไม่สามารถหนีจากสถานการณ์และเงื่อนไขที่เป็นส่วนหนึ่งของสภาพความเป็นมนุษย์ เราได้ลองแล้ว ผ่านยาเสพติดและแอลกอฮอล์ ผ่านเพศสัมพันธ์และการพึ่งพาผู้อื่น ผ่านการพนันและเทคโนโลยี ผ่านการทำงานและการช็อปปิ้ง ผ่านอาหารหรือการจำกัดอาหาร ผ่านความหมกมุ่นและความพยายามที่ไร้ประโยชน์ในการควบคุมประสบการณ์และความรู้สึกของเรา และเราอยู่ที่นี่เพราะมันไม่ได้ผล นี่คือโปรแกรมที่เชิญเราให้รับรู้และยอมรับว่าความเจ็บปวดและความผิดหวังบางอย่างจะอยู่เสมอ เพื่อสืบสวนวิธีที่ไม่ชาญฉลาดที่เราจัดการกับความเจ็บปวดนั้นในอดีต และเพื่อพัฒนานิสัยของความเข้าใจ ความเมตตา การให้อภัย และความเข้าใจอย่างลึกซึ้งต่อความเจ็บปวดของเราเอง ความเจ็บปวดของผู้อื่น และความเจ็บปวดที่เราได้ทำให้เกิด การยอมรับพร้อมความเข้าใจอย่างลึกซึ้งและความเมตตาคือสิ่งที่สร้างเสรีภาพจากความทุกข์ที่ทำให้ความเจ็บปวดของเราดูเหมือนทนไม่ได้",
+                "vietnamese_text": "Tất nhiên chúng ta không thể thoát khỏi các hoàn cảnh và điều kiện là một phần của tình trạng con người. Chúng ta đã thử rồi — thông qua ma túy và rượu, thông qua tình dục và phụ thuộc lẫn nhau, thông qua cờ bạc và công nghệ, thông qua công việc và mua sắm, thông qua thức ăn hoặc hạn chế thức ăn, thông qua nỗi ám ảnh và những nỗ lực vô ích để kiểm soát trải nghiệm và cảm xúc của chúng ta — và chúng ta ở đây vì nó không hiệu quả. Đây là một chương trình mời gọi chúng ta nhận ra và chấp nhận rằng một số nỗi đau và thất vọng sẽ luôn hiện diện, để điều tra những cách không khéo léo mà chúng ta đã đối phó với nỗi đau đó trong quá khứ, và phát triển thói quen hiểu biết, lòng từ bi, tha thứ và nhận thức sâu sắc đối với nỗi đau của chính chúng ta, nỗi đau của người khác và nỗi đau mà chúng ta đã gây ra. Chấp nhận với nhận thức sâu sắc và lòng từ bi là những gì tạo ra tự do khỏi nỗi đau khổ khiến nỗi đau của chúng ta có vẻ không thể chịu đựng được.",
+                "korean_text": "물론 우리는 인간 조건의 일부인 상황과 조건에서 벗어날 수 없습니다. 우리는 이미 시도했습니다 — 약물과 알코올을 통해, 성과 공동의존을 통해, 도박과 기술을 통해, 일과 쇼핑을 통해, 음식이나 음식 제한을 통해, 집착과 우리의 경험과 감정을 통제하려는 헛된 시도를 통해 — 그리고 그것이 효과가 없었기 때문에 우리는 여기에 있습니다. 이것은 어떤 고통과 실망이 항상 존재할 것임을 인식하고 받아들이도록 우리를 초대하고, 우리가 과거에 그 고통을 다룬 비숙련된 방법을 조사하며, 우리 자신의 고통, 다른 사람의 고통, 그리고 우리가 일으킨 고통에 대한 이해, 자비, 용서, 통찰의 습관을 개발하는 프로그램입니다. 통찰과 자비를 가진 수용은 우리의 고통을 견딜 수 없게 만드는 괴로움으로부터의 자유를 창조하는 것입니다.",
+                "japanese_text": "もちろん、私たちは人間の条件の一部である状況や条件から逃れることはできません。私たちはすでに試みました — 薬物とアルコールを通じて、性と共依存を通じて、ギャンブルとテクノロジーを通じて、仕事と買い物を通じて、食べ物または食べ物の制限を通じて、執着と私たちの経験と感情をコントロールしようとする無駄な試みを通じて — そして私たちがここにいるのはそれが効かなかったからです。これは、ある程度の痛みと失望が常に存在することを認識し受け入れるように私たちを招き、過去にその痛みを扱った不器用な方法を調査し、私たち自身の痛み、他者の痛み、そして私たちが引き起こした痛みに対する理解、慈悲、許し、洞察の習慣を育てるプログラムです。洞察と慈悲を伴う受容は、私たちの痛みを耐え難いものに見せる苦しみからの自由を創造するものです。",
+                "Chinese_Tradition_text": "當然，我們無法逃避作為人類狀況一部分的環境和條件。我們已經嘗試過——通過毒品和酒精，通過性和共依存，通過賭博和科技，通過工作和購物，通過食物或限制食物，通過執著和徒勞的試圖控制我們的經驗和感受——而我們在這裡是因為它沒有奏效。這是一個邀請我們認識和接受某些痛苦和失望將永遠存在的計劃，調查我們過去處理那種痛苦的不善巧方式，並培養對我們自己的痛苦、他人的痛苦以及我們造成的痛苦的理解、慈悲、寬恕和洞見的習慣。接納伴隨洞見和慈悲是創造從使我們的痛苦看起來難以忍受的痛苦中解脫的自由的原因。",
+                "Chinese_Simplified_text": "当然，我们无法逃避作为人类状况一部分的环境和条件。我们已经尝试过——通过毒品和酒精，通过性和共依存，通过赌博和科技，通过工作和购物，通过食物或限制食物，通过执着和徒劳的试图控制我们的经验和感受——而我们在这里是因为它没有奏效。这是一个邀请我们认识和接受某些痛苦和失望将永远存在的计划，调查我们过去处理那种痛苦的不善巧方式，并培养对我们自己的痛苦、他人的痛苦以及我们造成的痛苦的理解、慈悲、宽恕和洞见的习惯。接纳伴随洞见和慈悲是创造从使我们的痛苦看起来难以忍受的痛苦中解脱的自由的原因。",
+                "tibetan_text": "ང་ཚོས་མིའི་གནས་བབ་ཀྱི་ཆ་ཤས་ཡིན་པའི་གནས་སྟངས་དང་རྐྱེན་ལས་བྲོས་མི་ཐུབ་པ་ངེས། ང་ཚོས་ཤོག་གི་མྱོང་བ་བྱས་ཟིན། སྨན་རྫས་དང་ཆང་རག་གི་སྒོ་ནས། འདོད་ཆགས་དང་གཞན་ལ་རག་ལུས་ཀྱི་སྒོ་ནས། རྩེད་འཇོ་དང་ལག་རྩལ་གྱི་སྒོ་ནས། ལས་ཀ་དང་ཉོ་ཆའི་སྒོ་ནས། ཟས་ནོར་ཡང་ན་ཟས་ནོར་བཀག་པའི་སྒོ་ནས། ཆགས་སྡང་དང་ང་ཚོའི་ཉམས་མྱོང་དང་ཚོར་བ་དབང་དུ་འདུས་པར་ཕན་མེད་ཀྱི་འབད་བརྩོན་གྱི་སྒོ་ནས། ང་ཚོ་འདིར་ཡོད་པ་ནི་དེ་དག་ལས་འགྲུབ་མ་བྱུང་བའི་ཕྱིར་རེད། འདི་ནི་ལས་རིམ་ཞིག་ཡིན་ཞིང་ང་ཚོར་སྡུག་བསྔལ་དང་འདོད་པ་བརླག་པ་ཅི་ཙམ་ཞིག་རྟག་ཏུ་ཡོད་པ་ངོས་འཛིན་དང་ལེན་པར་གདན་འདྲེན་བྱེད་པ་དང་། ང་ཚོས་སྔོན་མ་དེའི་སྡུག་བསྔལ་ལ་འབྲེལ་བ་བྱས་པའི་མཁས་པ་མེད་པའི་ཐབས་ལ་དཔྱད་པ་བྱེད་པ་དང་། ང་ཚོའི་སྡུག་བསྔལ། གཞན་གྱི་སྡུག་བསྔལ། དང་ང་ཚོས་བསྐྲུན་པའི་སྡུག་བསྔལ་ལ་ཧ་གོ་བ། སྙིང་རྗེ། བཟོད་པ། དང་ཤེས་རབ་ཀྱི་གོམས་གཤིས་སྐྱེད་པར་འདྲེན་པ་ཡིན། ཤེས་རབ་དང་སྙིང་རྗེ་དང་བཅས་པའི་ལེན་པ་ནི་ང་ཚོའི་སྡུག་བསྔལ་མི་བཟོད་པར་སྣང་བའི་སྡུག་བསྔལ་ལས་རང་དབང་བསྐྲུན་པ་ཡིན།"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-11",
+                "text": "This book is only an introduction to a path that can bring lib eration and freedom from the cycle of addiction. The intention, and the hope of our program, is that every person on the path will be empowered to make it their own.",
+                "thai_text": "หนังสือเล่มนี้เป็นเพียงการแนะนำเส้นทางที่สามารถนำมาซึ่งการปลดปล่อยและเสรีภาพจากวงจรของภาวะติดยาเสพติด ความตั้งใจและความหวังของโปรแกรมของเราคือทุกคนบนเส้นทางจะได้รับพลังอำนาจให้ทำให้มันเป็นของตนเอง",
+                "vietnamese_text": "Cuốn sách này chỉ là phần giới thiệu về một con đường có thể mang lại giải thoát và tự do khỏi chu kỳ nghiện ngập. Ý định và hy vọng của chương trình chúng tôi là mỗi người trên con đường sẽ được trao quyền để biến nó thành của riêng mình.",
+                "korean_text": "이 책은 중독의 순환으로부터 해방과 자유를 가져올 수 있는 길에 대한 소개일 뿐입니다. 우리 프로그램의 의도와 희망은 길 위의 모든 사람이 그것을 자신의 것으로 만들 수 있는 힘을 부여받는 것입니다.",
+                "japanese_text": "この本は、依存症のサイクルからの解放と自由をもたらすことができる道への入門に過ぎません。私たちのプログラムの意図と希望は、道を歩むすべての人が、それを自分のものにする力を与えられることです。",
+                "Chinese_Tradition_text": "本書只是介紹一條可以帶來從成癮循環中解脫和自由的道路。我們計劃的意圖和希望是，道路上的每個人都將被賦予力量，使其成為自己的。",
+                "Chinese_Simplified_text": "本书只是介绍一条可以带来从成瘾循环中解脱和自由的道路。我们计划的意图和希望是，道路上的每个人都将被赋予力量，使其成为自己的。",
+                "tibetan_text": "དེབ་འདི་ནི་འཁོར་བའི་འཁོར་ལོ་ལས་ཐར་པ་དང་རང་དབང་གི་ལམ་ཞིག་གི་སྒོ་འབྱེད་ཙམ་ཞིག་ཡིན། ང་ཚོའི་ལས་རིམ་གྱི་དགོངས་པ་དང་རེ་བ་ནི། ལམ་སྟེང་གི་གང་ཟག་རེ་རེ་བཞིན་དུ་དེ་རང་གི་ཡིན་པར་བཟོ་བར་དབང་ཆ་རྙེད་པ་ཡིན།"
+              },
+              {
+                "type": "paragraph",
+                "class": "vspace1",
+                "id": "p9-12",
+                "text": "May you be happy.",
+                "thai_text": "ขอให้คุณมีความสุข",
+                "vietnamese_text": "Cầu mong bạn được hạnh phúc.",
+                "korean_text": "당신이 행복하기를 바랍니다.",
+                "japanese_text": "あなたが幸せでありますように。",
+                "Chinese_Tradition_text": "願你快樂。",
+                "Chinese_Simplified_text": "愿你快乐。",
+                "tibetan_text": "ཁྱེད་སྐྱིད་པོ་ཡོང་བར་ཤོག"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-13",
+                "text": "May you be at ease.",
+                "thai_text": "ขอให้คุณสบายใจ",
+                "vietnamese_text": "Cầu mong bạn được an lạc.",
+                "korean_text": "당신이 편안하기를 바랍니다.",
+                "japanese_text": "あなたが安らかでありますように。",
+                "Chinese_Tradition_text": "願你安詳。",
+                "Chinese_Simplified_text": "愿你安详。",
+                "tibetan_text": "ཁྱེད་བདེ་བ་ཡོང་བར་ཤོག"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-14",
+                "text": "May you be free from suffering.",
+                "thai_text": "ขอให้คุณปลอดจากความทุกข์",
+                "vietnamese_text": "Cầu mong bạn được giải thoát khỏi đau khổ.",
+                "korean_text": "당신이 고통에서 벗어나기를 바랍니다.",
+                "japanese_text": "あなたが苦しみから解放されますように。",
+                "Chinese_Tradition_text": "願你脫離痛苦。",
+                "Chinese_Simplified_text": "愿你脱离痛苦。",
+                "tibetan_text": "ཁྱེད་སྡུག་བསྔལ་ལས་གྲོལ་བར་ཤོག"
+              },
+              {
+                "type": "paragraph",
+                "id": "p9-15",
+                "text": "May all beings be free from suffering.",
+                "thai_text": "ขอให้สัตว์ทั้งหลายปลอดจากความทุกข์",
+                "vietnamese_text": "Cầu mong tất cả chúng sinh được giải thoát khỏi đau khổ.",
+                "korean_text": "모든 존재가 고통에서 벗어나기를 바랍니다.",
+                "japanese_text": "すべての存在が苦しみから解放されますように。",
+                "Chinese_Tradition_text": "願一切眾生脫離痛苦。",
+                "Chinese_Simplified_text": "愿一切众生脱离痛苦。",
+                "tibetan_text": "སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་ལས་གྲོལ་བར་ཤོག"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "chapter",
+        "id": 10,
+        "status": "draft",
+        "title": "WHERE TO BEGIN",
+        "thai_title": "",
+        "vietnamese_title": "",
+        "korean_title": "",
+        "japanese_title": "",
+        "Chinese_Tradition_title": "",
+        "Chinese_Simplified_title": "",
+        "tibetan_title": "",
+        "sections": [
+          {
+            "type": "section",
+            "id": 1,
+            "heading": "",
+            "content": [
+              {
+                "type": "paragraph",
+                "id": "p10-1",
+                "text": "How can we use Buddhism for our recovery? Outlined below are the areas that we suggest you concentrate your energy on while walking this path.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p10-2",
+                "text": "We come to understand the Four Noble Truths and use them as a guide for our path of recovery. This program doesn’t ask us to be lieve in anything other than our own potential to wake up: just allowing ourselves to believe that it’s possible, or even might be possible. Through experiential learning, we realize that our efforts can make a difference and this is a way to recover. Then we make a decision to repeatedly commit to this path.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p10-3",
+                "text": "As we learn about the Four Noble Truths — including the Eightfold Path that leads to the end of the suffering caused by addiction — we put these principles into practice in our lives. This book presents an introduction to these Truths and the Eightfold Path as a guide to a non-harming way of being in the world. It is both a philosophy and a plan of action.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p10-4",
+                "text": "Meditation is an essential part of the program. This book con tains some basic instructions for you so you can start right away. Most of us have found it very helpful to attend meetings that include an op portunity to practice meditation with others. A key to this program is establishing a regular meditation practice — in and outside of meetings. This will help us begin the process of investigating our own minds, our reactivity, and our behavior. We look deeply at the nature and causes of our suffering so we can find a path to freedom that’s based on authentic self-knowledge.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p10-5",
+                "text": "The subsequent chapters discuss three aspects of the program — the “three jewels” of Buddhism: the Buddha, the Dharma, and the Sang ha — as a way of developing the wisdom, ethical conduct, and spiritual practice that leads to recovery. We hope that groups and individuals will use this book to customize their own course of recovery. We offer some suggestions in that spirit. You’re invited to take what works for you and leave the rest.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p10-6",
+                "text": "At the end of each section are inquiries for self-exploration. These questions can be used as part of a formal process with a mentor, wise friend, or group; as tools to explore a specific life situation; as guides for a daily self-inquiry practice; or as meeting discussion topics. A wise friend or mentor can be of great help in deepening your understanding, and we encourage you to reach out to people you encounter at meetings.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "chapter",
+        "id": 11,
+        "status": "draft",
+        "title": "XIII",
+        "thai_title": "",
+        "vietnamese_title": "",
+        "korean_title": "",
+        "japanese_title": "",
+        "Chinese_Tradition_title": "",
+        "Chinese_Simplified_title": "",
+        "tibetan_title": "",
+        "sections": [
+          {
+            "type": "section",
+            "id": 1,
+            "heading": "",
+            "content": [
+              {
+                "type": "paragraph",
+                "id": "p11-1",
+                "text": "Supportive friendships are an integral part of the practice. The questions may bring up shame, guilt, or sadness; or they may possibly activate trau ma. It could be beneficial to set up a self-care strategy ahead of time. The intent of the questions is to deepen our practice so we can experience more freedom, not to bring us more suffering.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11-2",
+                "text": "Our path is not a checklist, but rather a practice in which we choose where and how to invest our energy in a way that is both wise and compassionate toward ourselves and others. This journey involves meditation, meetings, and written inventories, all of which can improve our lives greatly. The practice of the Eightfold Path helps us develop in",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11-3",
+                "text": "sight and compassion as we begin to look into the causes and conditions that led to our own suffering with addiction. This path doesn’t have an end. There will continue to be suffering and challenges in life. This path offers a way to transform the suffering caused by our habitual reactions to these challenges, and an end to the illusion of escape we tried to find in substances or behaviors. It’s a way to break our chains with our own hands. It’s a path of deep freedom and refuge.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11-4",
+                "text": "XIV",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "id": 3,
+            "heading": "I.",
+            "content": []
+          }
+        ]
+      },
+      {
+        "type": "chapter",
+        "id": "11a",
+        "status": "draft",
+        "title": "THE PRACTICE",
+        "thai_title": "",
+        "vietnamese_title": "",
+        "korean_title": "",
+        "japanese_title": "",
+        "Chinese_Tradition_title": "",
+        "Chinese_Simplified_title": "",
+        "tibetan_title": "",
+        "sections": [
+          {
+            "type": "section",
+            "id": 2,
+            "heading": "THE Practice",
+            "content": [
+              {
+                "type": "paragraph",
+                "id": "p11a-1",
+                "text": "Renunciation: We understand addiction to describe the overwhelming craving and compulsive use of substances or behaviors to escape pres ent-time reality, either by clinging to pleasure or running from pain. We commit to the intention of abstinence from alcohol and other addictive substances. For those of us recovering from process addictions, particu larly those for which complete abstinence is not possible, we also identify and commit to wise boundaries around our harmful behaviors, prefera bly with the help of a mentor or therapeutic professional.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-2",
+                "text": "Meditation: We commit to the intention of developing a daily medita tion practice. We use meditation as a tool to investigate our actions, in tentions, reactivity, and the nature of our mind. Meditation is a personal practice, and we commit to finding a balanced effort toward this and other healthy practices on the path.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-3",
+                "text": "Meetings: We attend recovery meetings whenever possible, in person and/or online, whether it be with Recovery Dharma, other Buddhist communities, or other recovery fellowships. In early recovery, it is rec ommended to attend a recovery meeting as often as possible. We also commit to becoming an active part of the community, offering our own experiences and service wherever possible.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-4",
+                "text": "The Path: We commit to deepening and broadening our understanding of the Four Noble Truths and to practicing the Eightfold Path in our daily lives.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-5",
+                "text": "Inquiry and Investigation: We explore the Four Noble Truths through writing and sharing in-depth, detailed inquiries. These can be worked on with the guidance of a mentor or therapist, in partnership with a trusted friend, or with a group. As we complete our written inquiries, we strive to hold ourselves accountable and take direct responsibility for our actions using wise intentions. This includes making amends for the harm we have caused in our past.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-6",
+                "text": "Sangha, Wise Friends, Mentors: We cultivate relationships within a recovery community, to support our own recovery and the recovery of others. After we have completed significant work on our inquiries, es tablished a meditation practice, and achieved renunciation from our ad-",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-7",
+                "text": "XV",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-8",
+                "text": "dictive behaviors, we can become mentors to help others on their path to liberation from addiction. Anyone with any period of time of renun ciation and practice can be of service to others in their sangha. When mentors are not available, a group of wise friends can act as partners in self-inquiry and support each other’s practice.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-9",
+                "text": "Growth: We continue our study of Buddhist practices through reading, listening to Dharma talks, visiting and becoming members of recovery and spiritual sanghas, and attending meditation or retreats to enhance our understanding, wisdom, and practice. We undertake a lifelong jour",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-10",
+                "text": "ney of growth and awakening.",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              },
+              {
+                "type": "paragraph",
+                "id": "p11a-11",
+                "text": "XVI",
+                "thai_text": "",
+                "vietnamese_text": "",
+                "korean_text": "",
+                "japanese_text": "",
+                "Chinese_Tradition_text": "",
+                "Chinese_Simplified_text": "",
+                "tibetan_text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
